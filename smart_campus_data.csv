@@ -1,0 +1,1001 @@
+Student_ID,Location_Name,Building_Name,Floor,X_Coordinate,Y_Coordinate,Foot_Traffic_Density,Timestamp,Event
+1,Main Library,Main Gate,2,92.04,59.21,High,2025-05-16 14:04:00,
+2,Student Lounge,Cultural Hall,3,17.48,77.17,High,2025-05-16 8:32:00,Orientation
+3,Student Lounge,Student Center,3,90.25,97.25,Low,2025-05-16 17:22:00,
+4,Cafeteria,Engineering Block,3,86.38,49.86,Low,2025-05-16 14:21:00,Sports Event
+5,Garden Area,Student Center,2,37.64,75.63,High,2025-05-16 11:12:00,Orientation
+6,Student Lounge,Main Gate,1,42.15,88.64,High,2025-05-16 14:49:00,Sports Event
+7,Admin Office,Student Center,3,12.89,2.72,Low,2025-05-16 17:42:00,Class Break
+8,Student Lounge,Engineering Block,0,31.59,63.38,Medium,2025-05-16 11:20:00,Class Break
+9,Gymnasium,Engineering Block,1,42.75,21.2,Medium,2025-05-16 8:28:00,
+10,Student Lounge,Engineering Block,2,56.96,22.4,Medium,2025-05-16 8:35:00,
+11,Garden Area,Academic Block A,1,2.71,78.25,Low,2025-05-16 12:30:00,Lunch Time
+12,Lecture Hall A,Academic Block B,2,90.29,38.56,High,2025-05-16 8:32:00,
+13,Gymnasium,Academic Block A,1,7.58,68.65,Medium,2025-05-16 15:29:00,
+14,Auditorium,Cultural Hall,0,51.01,18.44,Low,2025-05-16 8:55:00,Class Break
+15,Student Lounge,Engineering Block,0,94.4,58.96,Medium,2025-05-16 9:04:00,Sports Event
+16,Main Library,Main Gate,0,75.39,98.13,High,2025-05-16 10:43:00,
+17,Cafeteria,Student Center,2,96.68,52.68,High,2025-05-16 8:32:00,Orientation
+18,Lecture Hall B,Student Center,0,26.35,2.6,Medium,2025-05-16 17:50:00,
+19,Admin Office,Engineering Block,0,31.25,16.52,Medium,2025-05-16 9:05:00,
+20,Admin Office,Engineering Block,2,63.12,83.87,High,2025-05-16 8:15:00,Lunch Time
+21,Lecture Hall B,Academic Block A,0,69.59,75.28,Medium,2025-05-16 11:01:00,
+22,Parking Area,Student Center,3,55.25,20.32,High,2025-05-16 14:58:00,
+23,Student Lounge,Engineering Block,0,39.02,89.43,Medium,2025-05-16 8:18:00,Seminar
+24,Admin Office,Academic Block B,0,90.2,61.39,Low,2025-05-16 14:23:00,Seminar
+25,Garden Area,Main Gate,1,12.47,33.22,High,2025-05-16 14:21:00,Sports Event
+26,Parking Area,Student Center,1,28.57,80.73,High,2025-05-16 10:04:00,Seminar
+27,Main Library,Student Center,1,3.74,76.4,Low,2025-05-16 9:03:00,Orientation
+28,Lecture Hall B,Engineering Block,3,58.34,32.7,Low,2025-05-16 10:57:00,Class Break
+29,Gymnasium,Main Gate,3,54.65,94.31,Medium,2025-05-16 9:22:00,
+30,Gymnasium,Main Gate,3,30.89,57.61,High,2025-05-16 11:44:00,Sports Event
+31,Lecture Hall A,Student Center,1,43.68,50.47,Medium,2025-05-16 11:25:00,
+32,Main Library,Academic Block B,2,9.19,39.83,Medium,2025-05-16 13:25:00,Class Break
+33,Lecture Hall B,Academic Block A,2,12.95,37.88,High,2025-05-16 9:18:00,Seminar
+34,Parking Area,Cultural Hall,1,11.88,8.59,Medium,2025-05-16 13:24:00,
+35,Cafeteria,Cultural Hall,2,81.57,0.11,Medium,2025-05-16 9:47:00,Lunch Time
+36,Medical Center,Cultural Hall,1,2.17,31.83,Low,2025-05-16 14:14:00,
+37,Gymnasium,Academic Block B,0,34.92,42.85,Low,2025-05-16 8:38:00,Orientation
+38,Student Lounge,Academic Block B,1,53.24,1.78,Low,2025-05-16 13:04:00,Lunch Time
+39,Lecture Hall A,Engineering Block,2,32.21,70.13,Medium,2025-05-16 11:45:00,Lunch Time
+40,Admin Office,Academic Block A,1,61.45,10.95,Medium,2025-05-16 11:52:00,Class Break
+41,Student Lounge,Academic Block B,1,45.73,11.35,Low,2025-05-16 12:51:00,Seminar
+42,Lecture Hall B,Academic Block A,0,74.24,36.64,High,2025-05-16 12:52:00,Seminar
+43,Lecture Hall A,Engineering Block,3,36.02,1.04,Low,2025-05-16 12:49:00,
+44,Cafeteria,Main Gate,1,7.94,90.04,High,2025-05-16 8:41:00,Lunch Time
+45,Lecture Hall B,Academic Block A,1,55.45,13.16,Low,2025-05-16 12:00:00,Seminar
+46,Medical Center,Academic Block B,0,54.72,6.16,High,2025-05-16 13:23:00,Lunch Time
+47,Student Lounge,Academic Block B,1,44.96,70.7,High,2025-05-16 15:06:00,
+48,Computer Lab,Main Gate,0,41.74,18.06,Low,2025-05-16 10:51:00,
+49,Main Library,Main Gate,2,63.38,54.05,Medium,2025-05-16 10:26:00,Sports Event
+50,Garden Area,Academic Block A,1,62.2,51.36,High,2025-05-16 9:14:00,Orientation
+51,Auditorium,Main Gate,0,74.77,14.32,High,2025-05-16 9:32:00,
+52,Medical Center,Student Center,0,35.3,70.58,Low,2025-05-16 8:18:00,
+53,Student Lounge,Main Gate,0,44.46,98.1,Medium,2025-05-16 12:45:00,
+54,Lecture Hall B,Academic Block A,2,47.45,55.88,Low,2025-05-16 12:01:00,Sports Event
+55,Admin Office,Engineering Block,2,69.84,1.29,High,2025-05-16 9:25:00,Class Break
+56,Main Library,Engineering Block,0,31.99,65.34,High,2025-05-16 10:05:00,Class Break
+57,Gymnasium,Student Center,1,59.35,25.99,Low,2025-05-16 14:18:00,
+58,Parking Area,Academic Block B,1,65.94,11.22,High,2025-05-16 9:43:00,Class Break
+59,Garden Area,Engineering Block,3,21.24,92.32,Medium,2025-05-16 9:11:00,Sports Event
+60,Admin Office,Academic Block A,2,59.88,15.75,Medium,2025-05-16 13:12:00,Orientation
+61,Computer Lab,Engineering Block,1,84.2,91.73,Medium,2025-05-16 10:24:00,
+62,Medical Center,Academic Block A,0,62.7,72.76,Low,2025-05-16 8:38:00,
+63,Parking Area,Engineering Block,1,16.76,82.29,Medium,2025-05-16 16:48:00,Class Break
+64,Student Lounge,Engineering Block,1,3.32,6.65,High,2025-05-16 10:31:00,
+65,Parking Area,Academic Block B,3,7.08,91.56,Medium,2025-05-16 8:07:00,Sports Event
+66,Lecture Hall B,Main Gate,2,81.47,86.75,High,2025-05-16 9:46:00,Sports Event
+67,Computer Lab,Engineering Block,0,27.75,81.8,Medium,2025-05-16 14:03:00,Sports Event
+68,Admin Office,Academic Block B,1,53.88,78.64,High,2025-05-16 16:49:00,
+69,Computer Lab,Academic Block B,1,79.02,14.58,Low,2025-05-16 13:50:00,Sports Event
+70,Computer Lab,Cultural Hall,1,6.72,11.19,High,2025-05-16 9:20:00,
+71,Medical Center,Academic Block B,2,62.38,58.32,High,2025-05-16 15:36:00,
+72,Parking Area,Cultural Hall,0,34.38,84.64,Medium,2025-05-16 13:12:00,Seminar
+73,Computer Lab,Academic Block B,0,33.74,97.36,Medium,2025-05-16 11:20:00,
+74,Auditorium,Cultural Hall,0,1.27,57.39,Low,2025-05-16 14:00:00,Seminar
+75,Student Lounge,Academic Block B,2,71.31,99.7,Low,2025-05-16 8:55:00,Class Break
+76,Garden Area,Engineering Block,1,96.27,39.41,High,2025-05-16 10:33:00,
+77,Admin Office,Academic Block A,0,70.86,68.53,Low,2025-05-16 10:21:00,Orientation
+78,Parking Area,Academic Block A,1,29.63,56.54,Low,2025-05-16 9:25:00,
+79,Cafeteria,Engineering Block,0,57.03,47.6,High,2025-05-16 8:53:00,Lunch Time
+80,Cafeteria,Academic Block B,2,37.03,93.79,Low,2025-05-16 16:32:00,
+81,Cafeteria,Main Gate,2,52.05,47.06,Low,2025-05-16 12:19:00,Lunch Time
+82,Computer Lab,Main Gate,1,77.72,35.58,Low,2025-05-16 16:46:00,Orientation
+83,Gymnasium,Academic Block B,1,21.05,17.71,Medium,2025-05-16 8:17:00,
+84,Lecture Hall B,Academic Block A,0,99.65,62.51,Medium,2025-05-16 8:45:00,Sports Event
+85,Main Library,Academic Block A,3,95.25,34.21,High,2025-05-16 13:01:00,Class Break
+86,Garden Area,Student Center,1,58.49,46.06,High,2025-05-16 12:27:00,Sports Event
+87,Student Lounge,Student Center,2,89.45,27.8,High,2025-05-16 15:03:00,Orientation
+88,Parking Area,Student Center,1,52.58,22.06,High,2025-05-16 15:56:00,Lunch Time
+89,Garden Area,Engineering Block,2,1.84,2.6,Medium,2025-05-16 15:47:00,Seminar
+90,Auditorium,Main Gate,2,37.06,11.57,Low,2025-05-16 14:04:00,Orientation
+91,Garden Area,Cultural Hall,3,83.8,41.97,Medium,2025-05-16 16:40:00,Lunch Time
+92,Student Lounge,Academic Block B,1,68.75,62.83,High,2025-05-16 13:49:00,Seminar
+93,Computer Lab,Academic Block A,2,17.4,88.29,Medium,2025-05-16 8:25:00,Sports Event
+94,Computer Lab,Academic Block A,3,17.4,86.61,Low,2025-05-16 13:28:00,Class Break
+95,Main Library,Engineering Block,1,77.96,49.7,High,2025-05-16 12:06:00,
+96,Cafeteria,Academic Block B,1,36.1,23.18,Low,2025-05-16 8:20:00,
+97,Lecture Hall B,Academic Block B,0,27.08,32.59,Medium,2025-05-16 8:27:00,Seminar
+98,Medical Center,Academic Block A,3,51.13,97.22,High,2025-05-16 17:42:00,Orientation
+99,Medical Center,Cultural Hall,1,53.25,22.79,High,2025-05-16 16:02:00,Seminar
+100,Lecture Hall B,Academic Block B,3,36.92,94.16,Medium,2025-05-16 13:33:00,
+101,Main Library,Student Center,1,81.35,3.89,High,2025-05-16 8:18:00,Seminar
+102,Computer Lab,Cultural Hall,0,80.01,79.98,Low,2025-05-16 9:22:00,
+103,Parking Area,Engineering Block,1,13.93,42.77,High,2025-05-16 12:11:00,
+104,Computer Lab,Engineering Block,2,27.39,59.03,High,2025-05-16 9:50:00,Lunch Time
+105,Medical Center,Main Gate,3,69.55,56.94,High,2025-05-16 12:04:00,
+106,Main Library,Academic Block B,2,31.26,9.04,High,2025-05-16 13:20:00,Lunch Time
+107,Computer Lab,Cultural Hall,0,5.5,50.34,Medium,2025-05-16 16:07:00,Lunch Time
+108,Main Library,Cultural Hall,1,23.62,49.29,Medium,2025-05-16 8:58:00,Orientation
+109,Student Lounge,Main Gate,2,62.33,58.59,High,2025-05-16 13:44:00,Orientation
+110,Student Lounge,Main Gate,0,13.09,19.13,High,2025-05-16 14:20:00,Orientation
+111,Lecture Hall A,Main Gate,3,26.58,28.45,Low,2025-05-16 8:32:00,Orientation
+112,Medical Center,Engineering Block,3,6.39,36.12,Medium,2025-05-16 9:53:00,
+113,Gymnasium,Academic Block B,0,76.96,89.19,Medium,2025-05-16 15:50:00,Lunch Time
+114,Cafeteria,Student Center,2,3.44,59.34,Low,2025-05-16 17:29:00,Class Break
+115,Main Library,Cultural Hall,2,1.15,28.29,High,2025-05-16 15:25:00,Orientation
+116,Medical Center,Academic Block A,1,24.49,55.61,Medium,2025-05-16 14:22:00,Seminar
+117,Garden Area,Cultural Hall,3,67.17,34.67,Medium,2025-05-16 10:12:00,Class Break
+118,Lecture Hall A,Academic Block A,1,27.1,60.08,High,2025-05-16 16:31:00,
+119,Computer Lab,Main Gate,0,83.14,44.55,Medium,2025-05-16 12:43:00,Seminar
+120,Medical Center,Academic Block B,0,63.94,26.77,Medium,2025-05-16 14:56:00,Seminar
+121,Lecture Hall A,Academic Block A,2,40.78,10.17,Low,2025-05-16 15:31:00,
+122,Lecture Hall B,Academic Block B,2,90.25,14.65,Low,2025-05-16 11:31:00,Sports Event
+123,Medical Center,Cultural Hall,2,26.32,43.56,Medium,2025-05-16 13:53:00,
+124,Lecture Hall B,Academic Block B,3,0.11,82.62,High,2025-05-16 9:02:00,
+125,Auditorium,Main Gate,3,10.14,78.43,Low,2025-05-16 14:16:00,Class Break
+126,Admin Office,Cultural Hall,3,75.67,5.22,Low,2025-05-16 9:22:00,Orientation
+127,Cafeteria,Academic Block A,2,0.85,40.74,Medium,2025-05-16 9:25:00,Orientation
+128,Cafeteria,Student Center,0,1.6,46.55,Medium,2025-05-16 9:12:00,Orientation
+129,Computer Lab,Engineering Block,0,32.06,15.48,High,2025-05-16 15:23:00,
+130,Lecture Hall B,Engineering Block,2,16.3,71.53,High,2025-05-16 13:40:00,Sports Event
+131,Gymnasium,Engineering Block,3,31.88,80.23,High,2025-05-16 9:57:00,Lunch Time
+132,Lecture Hall A,Main Gate,0,48.54,13.04,Medium,2025-05-16 14:18:00,
+133,Garden Area,Academic Block A,1,97.03,82.27,Low,2025-05-16 18:00:00,Sports Event
+134,Garden Area,Academic Block A,2,24.54,21.85,High,2025-05-16 14:48:00,Orientation
+135,Lecture Hall B,Main Gate,2,22.07,47.21,Low,2025-05-16 16:05:00,Sports Event
+136,Lecture Hall B,Student Center,1,62.3,18.17,Medium,2025-05-16 11:47:00,Class Break
+137,Auditorium,Main Gate,1,41.8,94.62,Medium,2025-05-16 11:09:00,Sports Event
+138,Parking Area,Main Gate,3,10.59,2.85,Medium,2025-05-16 11:55:00,Orientation
+139,Auditorium,Cultural Hall,2,68.45,87.4,High,2025-05-16 15:04:00,
+140,Computer Lab,Academic Block B,1,57.14,58.11,High,2025-05-16 8:34:00,Orientation
+141,Student Lounge,Academic Block A,2,8.17,26.57,Low,2025-05-16 9:35:00,
+142,Student Lounge,Main Gate,1,43.84,19.99,High,2025-05-16 13:35:00,
+143,Admin Office,Cultural Hall,0,38.74,84.67,High,2025-05-16 9:27:00,Sports Event
+144,Garden Area,Academic Block A,0,32.99,21.74,Low,2025-05-16 14:34:00,
+145,Student Lounge,Main Gate,2,23.54,86.94,Medium,2025-05-16 10:50:00,Orientation
+146,Garden Area,Student Center,1,85.3,62.6,High,2025-05-16 17:36:00,Orientation
+147,Gymnasium,Cultural Hall,3,22.85,47.61,Low,2025-05-16 9:25:00,Class Break
+148,Medical Center,Cultural Hall,1,96.3,2.59,Medium,2025-05-16 17:56:00,Sports Event
+149,Student Lounge,Cultural Hall,1,79.42,10.55,High,2025-05-16 17:55:00,Orientation
+150,Computer Lab,Academic Block A,2,74.81,82.07,Low,2025-05-16 15:34:00,Sports Event
+151,Lecture Hall B,Main Gate,0,13.71,61.91,Medium,2025-05-16 16:07:00,
+152,Gymnasium,Main Gate,0,6.34,38.14,Medium,2025-05-16 17:57:00,Sports Event
+153,Gymnasium,Cultural Hall,0,26.72,89.69,High,2025-05-16 17:24:00,Lunch Time
+154,Medical Center,Student Center,3,94,84.46,Low,2025-05-16 10:05:00,
+155,Cafeteria,Student Center,2,20.67,27.01,High,2025-05-16 11:55:00,Orientation
+156,Admin Office,Student Center,1,40.56,80.94,High,2025-05-16 17:11:00,Sports Event
+157,Lecture Hall B,Cultural Hall,2,79.02,16.34,Medium,2025-05-16 16:32:00,Class Break
+158,Admin Office,Student Center,3,12.42,41.08,High,2025-05-16 10:40:00,
+159,Parking Area,Student Center,2,23.93,80.3,Medium,2025-05-16 9:47:00,Sports Event
+160,Garden Area,Main Gate,1,96.19,39.67,Low,2025-05-16 11:13:00,
+161,Medical Center,Academic Block B,0,38.87,45.46,Low,2025-05-16 17:36:00,
+162,Lecture Hall B,Engineering Block,2,95.31,40.26,Low,2025-05-16 12:28:00,Lunch Time
+163,Medical Center,Academic Block A,3,32.69,95.17,Medium,2025-05-16 10:40:00,
+164,Admin Office,Cultural Hall,3,15.08,14.09,Medium,2025-05-16 14:41:00,Orientation
+165,Lecture Hall B,Engineering Block,3,98.99,31.86,Medium,2025-05-16 8:30:00,
+166,Lecture Hall A,Academic Block A,0,6.89,49.04,Medium,2025-05-16 13:05:00,Lunch Time
+167,Cafeteria,Engineering Block,0,19.16,4.61,Low,2025-05-16 12:53:00,Class Break
+168,Parking Area,Main Gate,0,23.97,36.04,Low,2025-05-16 10:18:00,Seminar
+169,Admin Office,Student Center,2,5.95,0.39,High,2025-05-16 9:36:00,Sports Event
+170,Medical Center,Academic Block A,1,10.78,83.26,Low,2025-05-16 10:18:00,
+171,Computer Lab,Academic Block B,2,32.01,83.99,High,2025-05-16 9:49:00,Orientation
+172,Lecture Hall A,Academic Block A,3,81.14,49.76,Low,2025-05-16 11:01:00,Sports Event
+173,Garden Area,Engineering Block,3,34.09,73.62,Low,2025-05-16 10:25:00,Orientation
+174,Lecture Hall A,Main Gate,0,98.08,30.26,Medium,2025-05-16 14:21:00,
+175,Medical Center,Cultural Hall,1,6.48,54.52,Medium,2025-05-16 11:28:00,Orientation
+176,Admin Office,Engineering Block,2,71.6,22.26,Medium,2025-05-16 11:01:00,Lunch Time
+177,Lecture Hall B,Main Gate,2,72.31,64.46,High,2025-05-16 17:25:00,Seminar
+178,Main Library,Engineering Block,3,85.05,4.81,Low,2025-05-16 17:25:00,Orientation
+179,Student Lounge,Academic Block B,3,66.61,64.73,Medium,2025-05-16 17:15:00,
+180,Main Library,Academic Block B,0,31.15,78.4,Low,2025-05-16 10:54:00,
+181,Cafeteria,Cultural Hall,1,24.83,39.97,High,2025-05-16 8:27:00,
+182,Admin Office,Academic Block B,1,65.95,15.51,Low,2025-05-16 12:51:00,Orientation
+183,Student Lounge,Academic Block A,0,85.04,53.52,Medium,2025-05-16 17:51:00,
+184,Computer Lab,Academic Block B,0,76.01,10.41,Medium,2025-05-16 14:15:00,Orientation
+185,Medical Center,Cultural Hall,1,66.83,44.76,High,2025-05-16 17:03:00,Sports Event
+186,Auditorium,Academic Block A,1,73.05,3.52,Medium,2025-05-16 11:08:00,Class Break
+187,Garden Area,Cultural Hall,0,63.95,91.78,Low,2025-05-16 10:16:00,Orientation
+188,Computer Lab,Student Center,3,31.61,99.52,Low,2025-05-16 10:20:00,Orientation
+189,Gymnasium,Academic Block A,3,93.38,58.27,Medium,2025-05-16 17:10:00,Seminar
+190,Student Lounge,Engineering Block,1,53.13,17.66,Low,2025-05-16 8:36:00,
+191,Garden Area,Engineering Block,2,93.67,84.1,High,2025-05-16 9:36:00,Orientation
+192,Medical Center,Cultural Hall,3,68.4,71.61,Medium,2025-05-16 13:45:00,Lunch Time
+193,Lecture Hall B,Main Gate,0,12.94,44.14,Medium,2025-05-16 14:11:00,Lunch Time
+194,Lecture Hall A,Engineering Block,1,93.28,15.8,High,2025-05-16 16:55:00,
+195,Student Lounge,Academic Block B,3,22.89,93.09,Low,2025-05-16 14:20:00,Lunch Time
+196,Admin Office,Cultural Hall,2,87.31,94.52,High,2025-05-16 16:54:00,Seminar
+197,Gymnasium,Engineering Block,0,82.88,98.42,Medium,2025-05-16 11:15:00,Lunch Time
+198,Gymnasium,Engineering Block,0,79.21,42.54,High,2025-05-16 10:04:00,
+199,Cafeteria,Cultural Hall,0,16.55,76.27,Low,2025-05-16 14:25:00,Orientation
+200,Admin Office,Academic Block A,0,11.2,15.53,Low,2025-05-16 12:31:00,Orientation
+201,Medical Center,Student Center,0,70.38,59.36,Medium,2025-05-16 14:35:00,
+202,Garden Area,Academic Block B,3,67.22,25.74,High,2025-05-16 11:20:00,Seminar
+203,Admin Office,Main Gate,0,88.86,35.57,Medium,2025-05-16 14:02:00,Lunch Time
+204,Garden Area,Engineering Block,2,47.66,24.79,High,2025-05-16 12:30:00,Seminar
+205,Student Lounge,Academic Block B,1,89.63,7.78,High,2025-05-16 17:57:00,
+206,Lecture Hall B,Engineering Block,3,83.84,42.2,Low,2025-05-16 13:07:00,Class Break
+207,Garden Area,Academic Block B,2,80.67,64.59,High,2025-05-16 11:44:00,Sports Event
+208,Cafeteria,Academic Block B,1,94.46,34.94,High,2025-05-16 16:50:00,
+209,Main Library,Main Gate,3,35.71,20.61,High,2025-05-16 9:25:00,Orientation
+210,Lecture Hall B,Cultural Hall,2,81.05,91.52,Medium,2025-05-16 13:48:00,
+211,Lecture Hall A,Student Center,3,98.8,44.96,High,2025-05-16 16:09:00,Orientation
+212,Gymnasium,Academic Block A,3,5.01,19.7,Medium,2025-05-16 17:51:00,Orientation
+213,Medical Center,Main Gate,0,36.36,85.46,Medium,2025-05-16 17:47:00,Seminar
+214,Garden Area,Cultural Hall,0,41.14,43.14,Low,2025-05-16 8:17:00,Orientation
+215,Computer Lab,Cultural Hall,1,36.07,72.69,High,2025-05-16 11:12:00,Sports Event
+216,Lecture Hall B,Engineering Block,0,21.28,4.83,High,2025-05-16 10:12:00,Orientation
+217,Admin Office,Academic Block B,3,50.13,89.82,Medium,2025-05-16 11:10:00,Seminar
+218,Garden Area,Student Center,2,24.32,99.45,Low,2025-05-16 13:35:00,Sports Event
+219,Lecture Hall A,Academic Block B,2,64.92,4.72,High,2025-05-16 13:01:00,Class Break
+220,Gymnasium,Main Gate,0,70.94,60.79,Low,2025-05-16 13:39:00,
+221,Cafeteria,Engineering Block,2,92.74,39.14,Medium,2025-05-16 12:14:00,Sports Event
+222,Student Lounge,Student Center,1,68.83,49.27,Low,2025-05-16 12:00:00,
+223,Admin Office,Main Gate,2,72.29,90.89,High,2025-05-16 12:41:00,
+224,Auditorium,Academic Block B,0,20.17,1.48,Medium,2025-05-16 8:34:00,Orientation
+225,Gymnasium,Academic Block A,1,94.6,77.88,Medium,2025-05-16 16:53:00,Sports Event
+226,Lecture Hall A,Academic Block B,2,44.39,9.95,High,2025-05-16 14:23:00,Sports Event
+227,Computer Lab,Main Gate,3,12.04,37.37,High,2025-05-16 12:38:00,Orientation
+228,Main Library,Engineering Block,2,97.31,38.92,Low,2025-05-16 10:19:00,Sports Event
+229,Parking Area,Cultural Hall,0,80.54,42.49,High,2025-05-16 16:13:00,
+230,Auditorium,Engineering Block,2,16,9.23,High,2025-05-16 9:21:00,Seminar
+231,Cafeteria,Academic Block B,3,74.39,15.75,Low,2025-05-16 12:36:00,Orientation
+232,Auditorium,Main Gate,2,60.81,49.88,High,2025-05-16 13:48:00,Lunch Time
+233,Medical Center,Cultural Hall,0,64.37,78.4,Low,2025-05-16 15:51:00,Sports Event
+234,Student Lounge,Cultural Hall,3,9.74,99.94,High,2025-05-16 15:40:00,Lunch Time
+235,Lecture Hall B,Student Center,0,62.35,35.09,Medium,2025-05-16 17:00:00,Class Break
+236,Main Library,Student Center,3,96.87,63.79,High,2025-05-16 14:55:00,Class Break
+237,Computer Lab,Main Gate,0,45.71,84.2,Low,2025-05-16 12:34:00,
+238,Computer Lab,Cultural Hall,3,63.3,28.97,High,2025-05-16 14:45:00,Sports Event
+239,Garden Area,Student Center,3,5.89,91.46,Low,2025-05-16 13:01:00,Class Break
+240,Medical Center,Main Gate,1,70.24,10.16,Low,2025-05-16 8:11:00,
+241,Student Lounge,Engineering Block,3,24.06,21.47,Low,2025-05-16 10:09:00,Orientation
+242,Parking Area,Cultural Hall,1,81.78,19.86,Medium,2025-05-16 8:37:00,Sports Event
+243,Garden Area,Main Gate,3,57.87,25.93,Low,2025-05-16 8:22:00,Class Break
+244,Lecture Hall B,Main Gate,0,98.66,72.21,Low,2025-05-16 14:48:00,Seminar
+245,Cafeteria,Student Center,0,54.07,27.75,High,2025-05-16 9:13:00,Seminar
+246,Lecture Hall B,Engineering Block,0,40.74,48.98,Medium,2025-05-16 16:15:00,
+247,Computer Lab,Student Center,3,72.67,3.61,Medium,2025-05-16 13:40:00,Class Break
+248,Auditorium,Main Gate,3,43.62,62.93,Low,2025-05-16 8:38:00,Lunch Time
+249,Lecture Hall A,Academic Block B,1,9.32,21.91,Low,2025-05-16 17:17:00,Seminar
+250,Medical Center,Academic Block A,3,79.55,1.25,Medium,2025-05-16 17:31:00,
+251,Computer Lab,Main Gate,1,24.41,6.55,High,2025-05-16 13:15:00,
+252,Gymnasium,Student Center,3,67.32,6.04,Medium,2025-05-16 10:41:00,
+253,Admin Office,Cultural Hall,3,69.18,73.47,Low,2025-05-16 16:40:00,
+254,Cafeteria,Student Center,2,10.88,68.47,High,2025-05-16 14:28:00,Lunch Time
+255,Auditorium,Cultural Hall,0,96.95,20.02,Medium,2025-05-16 8:54:00,Lunch Time
+256,Lecture Hall A,Engineering Block,3,91.81,5.25,High,2025-05-16 11:16:00,Seminar
+257,Student Lounge,Cultural Hall,2,10.35,33.72,Low,2025-05-16 17:24:00,Seminar
+258,Cafeteria,Academic Block B,0,4.88,46.21,Low,2025-05-16 15:29:00,Sports Event
+259,Gymnasium,Main Gate,3,15.05,98.68,Medium,2025-05-16 13:12:00,Lunch Time
+260,Cafeteria,Academic Block B,1,65.19,13.17,High,2025-05-16 11:46:00,Seminar
+261,Main Library,Student Center,0,67.65,41.62,High,2025-05-16 9:17:00,
+262,Garden Area,Cultural Hall,3,63.94,51.53,High,2025-05-16 16:40:00,Sports Event
+263,Gymnasium,Student Center,2,31.81,69.54,High,2025-05-16 11:41:00,
+264,Cafeteria,Academic Block B,3,40.79,60.63,High,2025-05-16 16:38:00,
+265,Lecture Hall B,Academic Block A,0,75.82,43.36,High,2025-05-16 9:18:00,
+266,Main Library,Main Gate,0,90.94,97.04,Medium,2025-05-16 12:12:00,Orientation
+267,Student Lounge,Student Center,2,84.17,85.83,Low,2025-05-16 17:37:00,Lunch Time
+268,Parking Area,Academic Block A,1,97.55,86.67,Low,2025-05-16 9:18:00,Orientation
+269,Computer Lab,Academic Block A,1,47.73,37.91,Low,2025-05-16 8:51:00,Class Break
+270,Lecture Hall A,Academic Block A,3,95.35,46.9,Low,2025-05-16 16:24:00,Seminar
+271,Garden Area,Academic Block B,1,24.32,12.53,Low,2025-05-16 13:51:00,Sports Event
+272,Student Lounge,Academic Block B,2,11.06,60.16,Low,2025-05-16 8:11:00,
+273,Student Lounge,Academic Block A,0,23.95,18.43,Medium,2025-05-16 15:12:00,
+274,Lecture Hall A,Academic Block B,3,78.03,37,High,2025-05-16 15:00:00,Sports Event
+275,Lecture Hall B,Main Gate,1,31.51,92.89,Medium,2025-05-16 16:47:00,Lunch Time
+276,Auditorium,Academic Block A,2,43.82,13.33,High,2025-05-16 13:36:00,Orientation
+277,Admin Office,Main Gate,0,50.92,9.89,Low,2025-05-16 15:11:00,Seminar
+278,Parking Area,Cultural Hall,1,81.8,64.97,High,2025-05-16 15:59:00,
+279,Parking Area,Main Gate,0,18.35,36.32,High,2025-05-16 12:30:00,Orientation
+280,Medical Center,Main Gate,2,68.28,51.68,High,2025-05-16 15:44:00,Seminar
+281,Main Library,Student Center,0,18.8,59.34,Medium,2025-05-16 10:43:00,Sports Event
+282,Cafeteria,Academic Block B,1,5.82,19.4,Low,2025-05-16 10:01:00,Sports Event
+283,Cafeteria,Cultural Hall,3,51.48,49.29,Medium,2025-05-16 14:05:00,Class Break
+284,Cafeteria,Academic Block B,0,94.45,58.57,Medium,2025-05-16 15:00:00,Lunch Time
+285,Admin Office,Student Center,2,36.82,53.9,Low,2025-05-16 13:59:00,
+286,Auditorium,Student Center,0,7.97,57.43,Medium,2025-05-16 10:56:00,Class Break
+287,Gymnasium,Cultural Hall,1,81.07,66.1,Low,2025-05-16 9:42:00,
+288,Main Library,Cultural Hall,2,24.43,73.56,Medium,2025-05-16 13:15:00,Orientation
+289,Cafeteria,Engineering Block,3,99.51,77.59,Low,2025-05-16 9:04:00,Class Break
+290,Parking Area,Main Gate,1,62.41,56.9,High,2025-05-16 14:06:00,Orientation
+291,Medical Center,Student Center,2,99.46,29.09,Medium,2025-05-16 12:38:00,Sports Event
+292,Parking Area,Main Gate,3,93.68,3.19,Medium,2025-05-16 15:14:00,Lunch Time
+293,Cafeteria,Student Center,2,66.55,1.06,High,2025-05-16 15:33:00,Class Break
+294,Garden Area,Academic Block B,1,50.01,37.32,Medium,2025-05-16 12:02:00,Sports Event
+295,Parking Area,Engineering Block,0,88.93,67.71,Medium,2025-05-16 9:16:00,Orientation
+296,Main Library,Cultural Hall,0,29.05,12.52,Low,2025-05-16 16:38:00,Orientation
+297,Admin Office,Engineering Block,1,47.31,70.65,Low,2025-05-16 13:23:00,
+298,Main Library,Academic Block B,1,49.78,41.86,Low,2025-05-16 11:48:00,Lunch Time
+299,Medical Center,Main Gate,3,31.56,43.69,Low,2025-05-16 17:46:00,Class Break
+300,Lecture Hall A,Cultural Hall,1,4.37,91.4,High,2025-05-16 13:17:00,
+301,Main Library,Main Gate,1,15,7.71,Low,2025-05-16 16:44:00,Lunch Time
+302,Computer Lab,Student Center,2,46.8,66.16,High,2025-05-16 17:25:00,Seminar
+303,Student Lounge,Main Gate,0,46.67,63.8,Low,2025-05-16 15:30:00,
+304,Gymnasium,Engineering Block,0,35.47,47.73,Low,2025-05-16 11:33:00,Class Break
+305,Auditorium,Academic Block B,3,44.88,7.05,High,2025-05-16 11:08:00,
+306,Medical Center,Student Center,2,99.34,99.06,Medium,2025-05-16 13:26:00,
+307,Lecture Hall B,Engineering Block,1,51.67,3.55,High,2025-05-16 13:52:00,Lunch Time
+308,Student Lounge,Cultural Hall,2,84.83,58.94,High,2025-05-16 9:06:00,
+309,Gymnasium,Academic Block A,2,42.92,30.7,Low,2025-05-16 14:59:00,
+310,Cafeteria,Cultural Hall,3,23.78,82.84,Medium,2025-05-16 10:21:00,
+311,Admin Office,Academic Block A,0,99.39,17.07,Low,2025-05-16 11:23:00,Orientation
+312,Admin Office,Engineering Block,0,20.04,65.3,Low,2025-05-16 8:55:00,Sports Event
+313,Parking Area,Academic Block B,0,35.04,93.74,High,2025-05-16 15:54:00,
+314,Lecture Hall A,Academic Block B,0,29.74,81.12,Low,2025-05-16 16:40:00,
+315,Admin Office,Cultural Hall,0,31.14,93.35,Medium,2025-05-16 8:42:00,
+316,Cafeteria,Engineering Block,1,97.25,19.26,High,2025-05-16 16:05:00,
+317,Medical Center,Main Gate,2,28.81,99.43,Medium,2025-05-16 12:46:00,
+318,Lecture Hall B,Engineering Block,2,48.36,36.3,High,2025-05-16 15:30:00,Seminar
+319,Cafeteria,Academic Block A,2,65.42,80.13,Low,2025-05-16 13:10:00,Lunch Time
+320,Lecture Hall A,Main Gate,3,79.41,66.28,Low,2025-05-16 17:26:00,Sports Event
+321,Garden Area,Cultural Hall,1,34.98,7.93,Medium,2025-05-16 13:56:00,Seminar
+322,Lecture Hall B,Main Gate,1,62.06,5.56,High,2025-05-16 8:33:00,Seminar
+323,Cafeteria,Student Center,0,47.69,94.35,High,2025-05-16 9:29:00,Orientation
+324,Parking Area,Cultural Hall,1,52.57,17.02,Low,2025-05-16 13:07:00,Lunch Time
+325,Gymnasium,Main Gate,2,73.39,73.33,High,2025-05-16 10:35:00,
+326,Lecture Hall B,Academic Block B,1,55.02,34.2,Medium,2025-05-16 10:08:00,Orientation
+327,Main Library,Engineering Block,1,12.28,73.3,High,2025-05-16 16:24:00,
+328,Main Library,Student Center,2,48.74,20.63,High,2025-05-16 17:09:00,Class Break
+329,Garden Area,Student Center,0,48.34,24.63,Medium,2025-05-16 10:24:00,Orientation
+330,Medical Center,Student Center,0,31.07,51.26,Low,2025-05-16 8:09:00,
+331,Admin Office,Academic Block B,1,94.7,54.54,Low,2025-05-16 11:17:00,Class Break
+332,Lecture Hall A,Engineering Block,0,77.26,35.7,Low,2025-05-16 14:29:00,
+333,Computer Lab,Academic Block A,2,21.99,81.7,Low,2025-05-16 10:59:00,Orientation
+334,Main Library,Academic Block A,1,43.41,86.23,High,2025-05-16 8:12:00,Seminar
+335,Lecture Hall A,Engineering Block,0,48.58,98.16,Medium,2025-05-16 8:13:00,
+336,Main Library,Main Gate,1,15.89,27.84,High,2025-05-16 10:15:00,
+337,Auditorium,Academic Block B,0,18.23,38.41,High,2025-05-16 17:13:00,Orientation
+338,Lecture Hall A,Engineering Block,3,97.71,43.49,High,2025-05-16 16:49:00,
+339,Medical Center,Academic Block A,3,52.62,63.61,Low,2025-05-16 11:04:00,Seminar
+340,Lecture Hall A,Academic Block B,3,49.66,55.27,Low,2025-05-16 15:56:00,Orientation
+341,Admin Office,Academic Block A,1,7.98,89.35,Low,2025-05-16 11:28:00,
+342,Main Library,Academic Block B,0,6.33,39.61,Medium,2025-05-16 17:38:00,Seminar
+343,Garden Area,Cultural Hall,1,35.48,36.78,Low,2025-05-16 10:02:00,
+344,Admin Office,Main Gate,0,65.72,63.83,Medium,2025-05-16 10:07:00,Lunch Time
+345,Lecture Hall A,Academic Block A,1,3.59,56.01,Medium,2025-05-16 12:01:00,Orientation
+346,Garden Area,Academic Block A,1,84.65,14.89,High,2025-05-16 8:07:00,Seminar
+347,Lecture Hall A,Engineering Block,1,42.72,29.23,Low,2025-05-16 17:26:00,Lunch Time
+348,Medical Center,Student Center,0,13.63,46.53,Medium,2025-05-16 16:43:00,
+349,Lecture Hall A,Main Gate,2,29.09,49.58,High,2025-05-16 15:52:00,Class Break
+350,Student Lounge,Academic Block A,3,23.8,57.26,High,2025-05-16 10:03:00,Lunch Time
+351,Gymnasium,Cultural Hall,1,2.99,8.45,High,2025-05-16 16:47:00,Class Break
+352,Computer Lab,Student Center,0,32.18,82.13,Low,2025-05-16 11:28:00,
+353,Medical Center,Main Gate,0,8.26,8.76,Medium,2025-05-16 16:48:00,
+354,Gymnasium,Engineering Block,0,83.63,91.85,High,2025-05-16 13:49:00,
+355,Lecture Hall A,Academic Block A,2,47.81,35.29,High,2025-05-16 13:09:00,
+356,Medical Center,Academic Block B,0,70.47,91.87,High,2025-05-16 15:10:00,Class Break
+357,Lecture Hall B,Academic Block B,1,0.89,34.34,Medium,2025-05-16 9:27:00,Class Break
+358,Garden Area,Academic Block A,2,84.2,12.63,Low,2025-05-16 9:02:00,Lunch Time
+359,Lecture Hall B,Engineering Block,3,14.09,21.87,Low,2025-05-16 9:17:00,
+360,Cafeteria,Cultural Hall,0,30.55,29.39,Medium,2025-05-16 10:38:00,
+361,Medical Center,Engineering Block,0,68,32.02,Medium,2025-05-16 17:15:00,
+362,Admin Office,Academic Block A,0,96.86,13.08,Low,2025-05-16 9:58:00,
+363,Student Lounge,Academic Block A,0,37.93,15.67,Medium,2025-05-16 14:48:00,Lunch Time
+364,Medical Center,Engineering Block,0,97.87,83.22,Medium,2025-05-16 11:04:00,Class Break
+365,Lecture Hall A,Main Gate,2,76.56,12.27,Low,2025-05-16 14:48:00,Lunch Time
+366,Computer Lab,Cultural Hall,2,71.57,17.44,Low,2025-05-16 11:07:00,
+367,Garden Area,Cultural Hall,0,7.37,92.71,High,2025-05-16 10:08:00,Seminar
+368,Main Library,Academic Block B,0,73.19,35.37,High,2025-05-16 14:03:00,Seminar
+369,Main Library,Cultural Hall,3,70.33,54.54,Low,2025-05-16 12:48:00,Class Break
+370,Admin Office,Main Gate,3,1.62,10.52,Low,2025-05-16 8:45:00,Orientation
+371,Lecture Hall A,Student Center,0,41.15,74.99,Low,2025-05-16 10:23:00,Lunch Time
+372,Medical Center,Student Center,0,91.33,93.63,High,2025-05-16 9:01:00,
+373,Parking Area,Main Gate,2,5.21,73.39,Medium,2025-05-16 17:42:00,Sports Event
+374,Medical Center,Cultural Hall,3,62.34,60.59,Medium,2025-05-16 17:51:00,Lunch Time
+375,Student Lounge,Academic Block B,0,61.23,32.9,Medium,2025-05-16 11:53:00,
+376,Admin Office,Cultural Hall,3,38.73,54.36,High,2025-05-16 13:20:00,Lunch Time
+377,Garden Area,Cultural Hall,2,76.24,95.12,Medium,2025-05-16 11:59:00,Seminar
+378,Garden Area,Cultural Hall,1,86.88,71.38,Medium,2025-05-16 14:40:00,Orientation
+379,Student Lounge,Academic Block B,3,79.54,28.84,Medium,2025-05-16 17:11:00,
+380,Computer Lab,Academic Block A,0,77.39,13.63,Low,2025-05-16 14:28:00,Lunch Time
+381,Gymnasium,Main Gate,3,72.38,66.78,Low,2025-05-16 17:45:00,Orientation
+382,Parking Area,Engineering Block,0,67.17,14.44,Medium,2025-05-16 13:43:00,Class Break
+383,Gymnasium,Cultural Hall,3,83.52,30.47,High,2025-05-16 14:03:00,Sports Event
+384,Student Lounge,Engineering Block,2,92.45,5.72,High,2025-05-16 9:34:00,Sports Event
+385,Auditorium,Student Center,2,70.09,45.38,Low,2025-05-16 13:16:00,Orientation
+386,Lecture Hall B,Academic Block A,3,32.36,5.6,High,2025-05-16 10:32:00,
+387,Garden Area,Main Gate,1,37.9,76.69,Medium,2025-05-16 13:36:00,Lunch Time
+388,Computer Lab,Student Center,1,79.77,85.97,High,2025-05-16 17:23:00,Orientation
+389,Lecture Hall B,Engineering Block,0,0.44,45.67,Low,2025-05-16 13:36:00,Sports Event
+390,Lecture Hall B,Engineering Block,3,54.35,70.31,Medium,2025-05-16 17:50:00,Class Break
+391,Cafeteria,Cultural Hall,2,73.55,93.41,High,2025-05-16 12:43:00,
+392,Garden Area,Student Center,2,65.75,28.12,Low,2025-05-16 13:17:00,Seminar
+393,Parking Area,Engineering Block,2,20.65,97.49,High,2025-05-16 16:28:00,
+394,Parking Area,Academic Block B,1,73.94,99.96,Low,2025-05-16 11:24:00,Orientation
+395,Cafeteria,Student Center,3,23.86,88.24,High,2025-05-16 16:28:00,
+396,Gymnasium,Student Center,2,20.82,77.38,Medium,2025-05-16 9:59:00,
+397,Medical Center,Student Center,3,27.63,74.24,High,2025-05-16 13:04:00,Orientation
+398,Student Lounge,Main Gate,0,42.1,20.75,Low,2025-05-16 11:08:00,
+399,Medical Center,Academic Block B,3,60.12,81.7,Low,2025-05-16 13:37:00,Sports Event
+400,Student Lounge,Cultural Hall,3,44.67,52.36,Low,2025-05-16 14:50:00,Lunch Time
+401,Parking Area,Student Center,3,68.53,67.13,High,2025-05-16 15:34:00,
+402,Admin Office,Engineering Block,3,61.41,2.91,Low,2025-05-16 15:46:00,Seminar
+403,Medical Center,Academic Block A,1,28.08,54.45,Medium,2025-05-16 8:27:00,Lunch Time
+404,Gymnasium,Cultural Hall,3,16.87,61.57,Medium,2025-05-16 8:22:00,
+405,Computer Lab,Student Center,3,9.38,36.24,High,2025-05-16 17:48:00,
+406,Admin Office,Student Center,0,82.13,79.64,Low,2025-05-16 14:06:00,Sports Event
+407,Lecture Hall B,Main Gate,2,78.58,64.74,Medium,2025-05-16 14:57:00,Lunch Time
+408,Admin Office,Student Center,2,24.52,0.1,Medium,2025-05-16 11:09:00,Seminar
+409,Garden Area,Main Gate,1,45.87,11.41,Medium,2025-05-16 13:53:00,Seminar
+410,Student Lounge,Student Center,0,81.88,4.03,Low,2025-05-16 12:45:00,Seminar
+411,Cafeteria,Engineering Block,0,40.81,55.17,Medium,2025-05-16 14:51:00,Lunch Time
+412,Parking Area,Student Center,2,92.46,48.72,Medium,2025-05-16 14:26:00,Class Break
+413,Student Lounge,Academic Block B,3,85.5,59.5,High,2025-05-16 8:40:00,
+414,Parking Area,Academic Block A,2,8.84,58.17,Medium,2025-05-16 11:35:00,Lunch Time
+415,Student Lounge,Student Center,3,94.8,49.81,High,2025-05-16 16:59:00,Orientation
+416,Main Library,Academic Block A,1,42.03,10.95,Medium,2025-05-16 10:10:00,
+417,Garden Area,Academic Block A,2,90.33,10.38,Low,2025-05-16 17:21:00,
+418,Student Lounge,Engineering Block,2,4.24,65.57,Low,2025-05-16 10:06:00,
+419,Lecture Hall A,Academic Block A,1,58.35,77.49,Low,2025-05-16 14:59:00,Sports Event
+420,Medical Center,Student Center,2,42.84,55.24,Low,2025-05-16 12:23:00,Sports Event
+421,Medical Center,Academic Block A,1,19.21,11.38,Low,2025-05-16 14:22:00,Sports Event
+422,Medical Center,Engineering Block,3,57.87,99.42,Medium,2025-05-16 15:12:00,Seminar
+423,Gymnasium,Main Gate,3,56.04,3.21,Medium,2025-05-16 13:38:00,Sports Event
+424,Lecture Hall B,Engineering Block,3,73.38,33.93,Medium,2025-05-16 11:11:00,Lunch Time
+425,Auditorium,Academic Block A,3,8.61,47,Low,2025-05-16 9:49:00,
+426,Garden Area,Academic Block A,3,40.94,55.23,Medium,2025-05-16 11:57:00,Lunch Time
+427,Auditorium,Main Gate,1,99.07,39.4,Medium,2025-05-16 10:37:00,Sports Event
+428,Lecture Hall A,Student Center,0,28.91,63.12,Low,2025-05-16 16:10:00,Lunch Time
+429,Gymnasium,Cultural Hall,2,44.25,59.89,High,2025-05-16 18:00:00,Class Break
+430,Auditorium,Cultural Hall,2,40.86,28.64,High,2025-05-16 10:26:00,Lunch Time
+431,Medical Center,Main Gate,2,31.77,5.32,Low,2025-05-16 12:10:00,Seminar
+432,Main Library,Main Gate,1,81.16,22.94,Medium,2025-05-16 12:12:00,Seminar
+433,Auditorium,Cultural Hall,1,74.61,20.71,High,2025-05-16 16:41:00,
+434,Admin Office,Academic Block B,0,24.56,70.95,High,2025-05-16 12:19:00,Lunch Time
+435,Computer Lab,Main Gate,3,81.68,69.84,Low,2025-05-16 15:22:00,Sports Event
+436,Cafeteria,Main Gate,0,47.02,59.1,Medium,2025-05-16 12:55:00,Sports Event
+437,Auditorium,Cultural Hall,2,38.02,9.11,High,2025-05-16 12:28:00,
+438,Parking Area,Student Center,2,39.57,70.95,Medium,2025-05-16 13:00:00,Seminar
+439,Garden Area,Main Gate,1,44.07,96.4,Low,2025-05-16 15:40:00,Orientation
+440,Auditorium,Academic Block A,0,62.96,89.36,High,2025-05-16 11:24:00,Class Break
+441,Lecture Hall A,Academic Block A,3,18.77,20.36,Medium,2025-05-16 17:16:00,
+442,Computer Lab,Engineering Block,0,88.67,35.67,High,2025-05-16 8:19:00,
+443,Student Lounge,Academic Block B,1,15.43,92.33,Low,2025-05-16 17:01:00,Class Break
+444,Student Lounge,Student Center,2,39.94,87.81,Medium,2025-05-16 9:49:00,
+445,Garden Area,Cultural Hall,0,69.14,63.6,High,2025-05-16 13:56:00,
+446,Lecture Hall A,Academic Block B,0,52.15,65.25,High,2025-05-16 8:40:00,Sports Event
+447,Lecture Hall A,Cultural Hall,2,48.55,47.7,Low,2025-05-16 16:44:00,Sports Event
+448,Garden Area,Student Center,0,15.73,50.3,Medium,2025-05-16 16:02:00,Class Break
+449,Garden Area,Cultural Hall,0,7.58,5.79,Medium,2025-05-16 13:11:00,Lunch Time
+450,Auditorium,Academic Block A,1,49.83,85.6,Low,2025-05-16 9:58:00,
+451,Parking Area,Main Gate,2,90.57,75.62,Low,2025-05-16 8:55:00,Seminar
+452,Lecture Hall A,Student Center,2,42.28,71.97,Medium,2025-05-16 15:58:00,
+453,Lecture Hall A,Cultural Hall,1,9.67,66.4,Medium,2025-05-16 12:57:00,Orientation
+454,Lecture Hall B,Cultural Hall,3,86.28,63.56,Low,2025-05-16 17:07:00,Lunch Time
+455,Cafeteria,Student Center,1,18.59,8.48,Medium,2025-05-16 13:03:00,
+456,Admin Office,Student Center,2,91.25,73.26,High,2025-05-16 9:11:00,Sports Event
+457,Student Lounge,Academic Block A,0,88.58,14.43,Medium,2025-05-16 8:34:00,
+458,Admin Office,Engineering Block,1,90.08,58.07,Low,2025-05-16 12:35:00,
+459,Auditorium,Cultural Hall,0,86.12,75.16,Medium,2025-05-16 11:33:00,Orientation
+460,Main Library,Academic Block A,2,49,54.72,Medium,2025-05-16 17:39:00,Orientation
+461,Medical Center,Cultural Hall,3,21.82,11.06,Medium,2025-05-16 9:05:00,Lunch Time
+462,Parking Area,Academic Block A,2,99.5,40.92,Medium,2025-05-16 16:49:00,
+463,Lecture Hall B,Main Gate,2,14.27,13.85,Low,2025-05-16 17:03:00,Seminar
+464,Computer Lab,Academic Block A,1,32.06,43.19,High,2025-05-16 12:01:00,Class Break
+465,Garden Area,Academic Block A,1,74.19,91.07,High,2025-05-16 11:19:00,Class Break
+466,Main Library,Main Gate,3,52.87,28.82,Low,2025-05-16 9:12:00,
+467,Lecture Hall B,Student Center,3,74.49,27.61,High,2025-05-16 15:10:00,
+468,Computer Lab,Academic Block A,1,58.46,42.82,High,2025-05-16 10:46:00,
+469,Lecture Hall A,Main Gate,1,15.98,9.22,High,2025-05-16 16:19:00,Class Break
+470,Lecture Hall B,Academic Block A,3,63.61,66.53,Low,2025-05-16 15:53:00,
+471,Garden Area,Student Center,0,90.77,68.7,Low,2025-05-16 11:39:00,Seminar
+472,Lecture Hall A,Academic Block B,2,6.99,80.02,High,2025-05-16 13:13:00,
+473,Student Lounge,Engineering Block,3,73.62,22.91,Low,2025-05-16 15:40:00,Class Break
+474,Gymnasium,Academic Block A,1,95.81,64.93,Low,2025-05-16 8:20:00,Lunch Time
+475,Auditorium,Student Center,3,0.27,15.2,Medium,2025-05-16 15:29:00,Lunch Time
+476,Lecture Hall A,Academic Block B,3,67.58,26.29,Medium,2025-05-16 17:41:00,
+477,Main Library,Student Center,1,79.19,96.82,Low,2025-05-16 15:22:00,Orientation
+478,Auditorium,Academic Block B,2,71.01,52.72,Medium,2025-05-16 10:00:00,Orientation
+479,Parking Area,Engineering Block,1,72.27,35.5,High,2025-05-16 14:43:00,
+480,Admin Office,Student Center,1,7.8,35.01,Medium,2025-05-16 17:39:00,
+481,Lecture Hall A,Academic Block B,0,36.25,73.18,Low,2025-05-16 11:16:00,Orientation
+482,Parking Area,Academic Block A,0,42.89,59.86,Medium,2025-05-16 15:32:00,
+483,Admin Office,Engineering Block,0,0.08,53.81,Medium,2025-05-16 14:33:00,
+484,Medical Center,Cultural Hall,2,61.78,3.16,Medium,2025-05-16 12:56:00,Class Break
+485,Admin Office,Cultural Hall,1,6.03,69.17,High,2025-05-16 13:52:00,Sports Event
+486,Parking Area,Academic Block B,1,47.42,56.7,High,2025-05-16 8:11:00,Orientation
+487,Auditorium,Engineering Block,0,18.71,24.64,Low,2025-05-16 12:11:00,
+488,Auditorium,Cultural Hall,0,71.6,85.58,Medium,2025-05-16 10:47:00,Class Break
+489,Admin Office,Engineering Block,2,22.57,18.53,Low,2025-05-16 15:40:00,Orientation
+490,Parking Area,Student Center,2,73.2,80.76,High,2025-05-16 17:27:00,Orientation
+491,Auditorium,Engineering Block,3,61.95,71.08,Medium,2025-05-16 9:47:00,Lunch Time
+492,Student Lounge,Academic Block A,2,15.87,4.92,High,2025-05-16 13:39:00,
+493,Gymnasium,Main Gate,2,76.93,39.91,High,2025-05-16 16:02:00,
+494,Computer Lab,Student Center,0,13.98,26.78,Low,2025-05-16 8:14:00,Class Break
+495,Garden Area,Cultural Hall,0,22.35,42.94,Low,2025-05-16 14:10:00,
+496,Parking Area,Main Gate,3,56.99,23.29,High,2025-05-16 11:42:00,Orientation
+497,Student Lounge,Cultural Hall,2,77.98,40.49,Low,2025-05-16 14:27:00,Class Break
+498,Lecture Hall B,Engineering Block,1,80.16,4.43,Low,2025-05-16 8:30:00,Sports Event
+499,Lecture Hall A,Academic Block A,2,37.54,73.95,Low,2025-05-16 17:37:00,Sports Event
+500,Auditorium,Engineering Block,3,90.51,97.25,High,2025-05-16 10:26:00,
+501,Admin Office,Main Gate,0,31.79,89.83,High,2025-05-16 14:56:00,Orientation
+502,Lecture Hall B,Student Center,1,43.89,96.41,High,2025-05-16 14:57:00,
+503,Student Lounge,Cultural Hall,0,39.17,65.63,Low,2025-05-16 15:27:00,Class Break
+504,Medical Center,Student Center,2,15.05,68.93,Medium,2025-05-16 10:06:00,Seminar
+505,Medical Center,Student Center,0,13.11,91.73,High,2025-05-16 12:26:00,
+506,Gymnasium,Academic Block A,2,90.02,43.06,Medium,2025-05-16 8:13:00,Sports Event
+507,Admin Office,Student Center,0,96.42,2.47,Low,2025-05-16 8:42:00,Orientation
+508,Cafeteria,Engineering Block,3,1.99,33.86,High,2025-05-16 8:36:00,Lunch Time
+509,Lecture Hall B,Cultural Hall,3,7.97,48.89,High,2025-05-16 10:25:00,Class Break
+510,Auditorium,Engineering Block,3,83.66,14.06,High,2025-05-16 8:30:00,Lunch Time
+511,Admin Office,Academic Block A,3,67.95,83.3,High,2025-05-16 9:50:00,
+512,Main Library,Academic Block A,0,89.13,46.33,High,2025-05-16 14:21:00,
+513,Admin Office,Cultural Hall,2,10.48,55.05,High,2025-05-16 12:22:00,Seminar
+514,Lecture Hall A,Academic Block B,0,91.06,90.74,High,2025-05-16 8:14:00,
+515,Garden Area,Academic Block B,0,94.03,37.8,Medium,2025-05-16 13:21:00,Lunch Time
+516,Auditorium,Student Center,3,47.25,73.7,Medium,2025-05-16 11:05:00,
+517,Student Lounge,Academic Block B,2,0.9,90.75,Medium,2025-05-16 17:38:00,
+518,Computer Lab,Cultural Hall,3,75.98,24.49,Low,2025-05-16 14:33:00,
+519,Admin Office,Student Center,3,68.6,90.79,High,2025-05-16 16:39:00,Sports Event
+520,Gymnasium,Academic Block B,3,60.53,28.99,Medium,2025-05-16 17:18:00,Lunch Time
+521,Auditorium,Academic Block B,1,77.18,78.08,High,2025-05-16 15:10:00,
+522,Auditorium,Cultural Hall,0,35.77,29.18,High,2025-05-16 9:46:00,Lunch Time
+523,Student Lounge,Main Gate,0,95.61,1.74,High,2025-05-16 8:41:00,
+524,Student Lounge,Cultural Hall,1,48.62,9.81,Medium,2025-05-16 14:15:00,Seminar
+525,Parking Area,Cultural Hall,1,15.09,10.91,Medium,2025-05-16 16:38:00,
+526,Lecture Hall B,Main Gate,0,93.75,9.48,High,2025-05-16 10:02:00,Orientation
+527,Main Library,Academic Block B,3,61.4,15.36,Low,2025-05-16 15:06:00,
+528,Auditorium,Main Gate,0,21.92,77.81,Medium,2025-05-16 13:47:00,Lunch Time
+529,Garden Area,Cultural Hall,2,61.1,53.08,Medium,2025-05-16 13:09:00,
+530,Auditorium,Student Center,2,32.14,58.68,Low,2025-05-16 14:50:00,
+531,Lecture Hall A,Engineering Block,1,26.35,81.61,Low,2025-05-16 10:56:00,Seminar
+532,Parking Area,Cultural Hall,1,40.1,53.09,High,2025-05-16 11:41:00,Class Break
+533,Lecture Hall A,Main Gate,1,8.98,40.97,Low,2025-05-16 12:39:00,Lunch Time
+534,Student Lounge,Engineering Block,0,61.45,48.47,Low,2025-05-16 9:57:00,Class Break
+535,Parking Area,Engineering Block,1,1.25,5.84,Medium,2025-05-16 15:31:00,Sports Event
+536,Computer Lab,Main Gate,0,95.31,45.16,High,2025-05-16 14:46:00,Lunch Time
+537,Parking Area,Academic Block B,0,83.15,88.75,Medium,2025-05-16 15:57:00,Lunch Time
+538,Lecture Hall B,Main Gate,0,58.37,68.11,Low,2025-05-16 16:21:00,Orientation
+539,Lecture Hall B,Student Center,3,95.72,72.93,Medium,2025-05-16 16:50:00,
+540,Main Library,Main Gate,0,83.5,2.5,Medium,2025-05-16 8:48:00,Orientation
+541,Main Library,Student Center,3,97.95,91.17,Low,2025-05-16 9:05:00,Lunch Time
+542,Auditorium,Academic Block B,3,2.41,38.22,High,2025-05-16 8:40:00,Orientation
+543,Admin Office,Student Center,3,59.82,84.37,High,2025-05-16 16:37:00,Class Break
+544,Lecture Hall A,Main Gate,1,55.68,35.61,High,2025-05-16 17:55:00,Class Break
+545,Lecture Hall A,Cultural Hall,2,71.45,65.48,Low,2025-05-16 14:46:00,Lunch Time
+546,Parking Area,Cultural Hall,1,9.02,10.72,Medium,2025-05-16 15:02:00,Class Break
+547,Parking Area,Engineering Block,3,45.42,61.35,Medium,2025-05-16 13:23:00,Orientation
+548,Cafeteria,Cultural Hall,3,81.6,55.41,Low,2025-05-16 9:40:00,Lunch Time
+549,Medical Center,Academic Block B,0,66.45,38.37,High,2025-05-16 17:54:00,Class Break
+550,Auditorium,Engineering Block,3,64.19,3.42,Low,2025-05-16 16:47:00,Seminar
+551,Lecture Hall B,Student Center,3,91.04,74.97,Medium,2025-05-16 10:58:00,Orientation
+552,Medical Center,Main Gate,2,62.78,8.35,Low,2025-05-16 17:21:00,Class Break
+553,Admin Office,Academic Block A,2,54.8,56.83,Medium,2025-05-16 14:58:00,
+554,Computer Lab,Academic Block B,1,43.81,7.12,High,2025-05-16 12:56:00,Lunch Time
+555,Cafeteria,Engineering Block,2,72.37,40.13,Medium,2025-05-16 8:46:00,Sports Event
+556,Gymnasium,Engineering Block,0,70.4,69.97,Medium,2025-05-16 13:27:00,
+557,Cafeteria,Cultural Hall,2,57.06,64.67,High,2025-05-16 13:27:00,Lunch Time
+558,Student Lounge,Academic Block B,1,93.41,61.52,Medium,2025-05-16 14:47:00,Lunch Time
+559,Lecture Hall B,Main Gate,0,48.9,1.08,Medium,2025-05-16 8:29:00,Orientation
+560,Main Library,Cultural Hall,0,87.27,86.54,High,2025-05-16 13:20:00,Lunch Time
+561,Main Library,Engineering Block,3,76.23,2.01,High,2025-05-16 12:10:00,Sports Event
+562,Lecture Hall A,Main Gate,2,75.02,90.46,Low,2025-05-16 14:55:00,Seminar
+563,Medical Center,Student Center,0,7.77,25.65,Medium,2025-05-16 13:12:00,
+564,Main Library,Engineering Block,0,92.8,44.29,Low,2025-05-16 12:21:00,Class Break
+565,Admin Office,Main Gate,3,88.75,61.38,High,2025-05-16 9:52:00,Class Break
+566,Admin Office,Academic Block B,2,46.33,6.63,Low,2025-05-16 17:37:00,
+567,Lecture Hall A,Main Gate,3,25.98,45.89,Low,2025-05-16 8:07:00,Lunch Time
+568,Admin Office,Main Gate,0,74.39,27.42,Medium,2025-05-16 11:50:00,Orientation
+569,Cafeteria,Academic Block A,2,33.98,74.61,Medium,2025-05-16 9:58:00,Class Break
+570,Garden Area,Cultural Hall,3,6.87,26.14,High,2025-05-16 12:28:00,
+571,Main Library,Academic Block B,2,99.17,14.49,Low,2025-05-16 10:27:00,Sports Event
+572,Parking Area,Main Gate,2,92.54,36.66,Low,2025-05-16 9:32:00,Class Break
+573,Computer Lab,Main Gate,1,3.21,93.22,Medium,2025-05-16 17:42:00,Class Break
+574,Main Library,Cultural Hall,2,91.26,27.39,Medium,2025-05-16 9:14:00,Orientation
+575,Lecture Hall A,Academic Block A,3,39.91,8.47,Medium,2025-05-16 10:17:00,Lunch Time
+576,Gymnasium,Academic Block B,2,34.77,25.97,Low,2025-05-16 11:05:00,Class Break
+577,Lecture Hall A,Engineering Block,1,3.26,52.95,Low,2025-05-16 15:41:00,
+578,Auditorium,Student Center,2,70.83,58.72,High,2025-05-16 12:13:00,
+579,Auditorium,Academic Block B,2,48.31,79.75,Low,2025-05-16 9:58:00,Seminar
+580,Lecture Hall A,Academic Block B,0,71.63,74.25,Low,2025-05-16 11:16:00,
+581,Auditorium,Engineering Block,3,60.77,57.14,Low,2025-05-16 11:18:00,Lunch Time
+582,Gymnasium,Engineering Block,2,91.53,79.07,Medium,2025-05-16 13:04:00,Lunch Time
+583,Auditorium,Academic Block A,3,63.32,32.36,Medium,2025-05-16 10:27:00,
+584,Student Lounge,Academic Block A,1,15.54,12.87,Medium,2025-05-16 8:12:00,
+585,Computer Lab,Student Center,0,69.2,91.51,Low,2025-05-16 15:47:00,Orientation
+586,Gymnasium,Student Center,2,53.22,0.16,Medium,2025-05-16 9:40:00,Seminar
+587,Main Library,Main Gate,3,35.3,8.14,High,2025-05-16 9:58:00,Seminar
+588,Medical Center,Student Center,3,48.1,11.75,Low,2025-05-16 16:17:00,Lunch Time
+589,Lecture Hall B,Student Center,1,70.06,98.95,Low,2025-05-16 8:43:00,Seminar
+590,Computer Lab,Cultural Hall,2,30.96,72.79,High,2025-05-16 11:54:00,
+591,Student Lounge,Student Center,1,70.05,4.87,Medium,2025-05-16 15:06:00,
+592,Gymnasium,Academic Block A,2,23.6,78.47,Low,2025-05-16 10:10:00,
+593,Medical Center,Cultural Hall,1,54.86,25.63,High,2025-05-16 16:05:00,Sports Event
+594,Lecture Hall A,Academic Block A,0,5.01,44.83,Low,2025-05-16 14:27:00,Sports Event
+595,Computer Lab,Academic Block A,1,97.55,58.38,High,2025-05-16 17:29:00,
+596,Lecture Hall B,Main Gate,0,7.69,71.32,High,2025-05-16 12:16:00,Sports Event
+597,Gymnasium,Cultural Hall,0,70.87,60.85,Medium,2025-05-16 16:16:00,
+598,Lecture Hall A,Cultural Hall,0,89.33,90.94,High,2025-05-16 12:33:00,Sports Event
+599,Lecture Hall A,Academic Block A,1,20.9,88.38,High,2025-05-16 13:55:00,Class Break
+600,Computer Lab,Academic Block B,1,47.66,39.12,Medium,2025-05-16 8:01:00,Seminar
+601,Lecture Hall B,Academic Block A,3,51.77,46.35,High,2025-05-16 17:32:00,
+602,Medical Center,Engineering Block,2,71.89,62.33,High,2025-05-16 14:01:00,
+603,Lecture Hall A,Academic Block A,2,22.64,45.08,Medium,2025-05-16 15:44:00,
+604,Student Lounge,Academic Block A,1,77.67,12.51,Medium,2025-05-16 14:34:00,
+605,Student Lounge,Academic Block B,2,4.35,46.69,Low,2025-05-16 8:12:00,
+606,Garden Area,Main Gate,1,27.22,93,Medium,2025-05-16 11:30:00,Sports Event
+607,Cafeteria,Cultural Hall,3,33.58,53.58,Medium,2025-05-16 9:17:00,Class Break
+608,Gymnasium,Main Gate,2,99.01,25.41,Low,2025-05-16 10:51:00,Orientation
+609,Lecture Hall A,Student Center,0,27.77,32.13,High,2025-05-16 16:52:00,
+610,Auditorium,Academic Block A,1,9.51,40.76,Medium,2025-05-16 8:29:00,
+611,Admin Office,Main Gate,3,52.38,50.01,High,2025-05-16 12:17:00,
+612,Medical Center,Main Gate,2,56.95,68.81,High,2025-05-16 15:29:00,Seminar
+613,Main Library,Student Center,3,25.34,90.11,Medium,2025-05-16 17:13:00,Orientation
+614,Gymnasium,Student Center,2,62.36,19,Low,2025-05-16 8:02:00,
+615,Computer Lab,Academic Block A,0,92.7,79.71,Low,2025-05-16 10:35:00,
+616,Student Lounge,Cultural Hall,0,92.49,38.92,Low,2025-05-16 9:27:00,
+617,Auditorium,Cultural Hall,2,60.93,93.62,Low,2025-05-16 11:52:00,Lunch Time
+618,Lecture Hall B,Cultural Hall,1,6.61,18.98,High,2025-05-16 10:34:00,
+619,Lecture Hall A,Main Gate,0,33.24,4.2,Medium,2025-05-16 14:19:00,
+620,Auditorium,Engineering Block,1,14.82,43.28,Medium,2025-05-16 12:12:00,Orientation
+621,Parking Area,Student Center,0,82.25,67.92,Low,2025-05-16 8:31:00,Lunch Time
+622,Lecture Hall B,Student Center,3,0.88,43.95,Medium,2025-05-16 9:42:00,Class Break
+623,Cafeteria,Academic Block A,3,10.12,67.45,Medium,2025-05-16 13:10:00,Seminar
+624,Auditorium,Engineering Block,0,37.62,53.8,High,2025-05-16 8:55:00,Sports Event
+625,Lecture Hall A,Engineering Block,2,20.39,27.9,Medium,2025-05-16 16:11:00,
+626,Lecture Hall B,Engineering Block,3,8.74,63.37,Low,2025-05-16 9:15:00,Lunch Time
+627,Medical Center,Student Center,0,1.89,89.11,High,2025-05-16 17:01:00,Seminar
+628,Student Lounge,Academic Block B,2,31.66,44.63,Low,2025-05-16 17:06:00,Sports Event
+629,Gymnasium,Main Gate,2,44.9,4.16,High,2025-05-16 10:33:00,
+630,Computer Lab,Academic Block A,3,75.78,47.36,High,2025-05-16 8:23:00,Orientation
+631,Lecture Hall B,Cultural Hall,3,52.57,62.2,High,2025-05-16 17:10:00,Class Break
+632,Computer Lab,Main Gate,2,56.37,9.53,High,2025-05-16 17:50:00,Seminar
+633,Computer Lab,Academic Block B,1,88.66,96.06,Low,2025-05-16 8:55:00,Seminar
+634,Lecture Hall B,Cultural Hall,3,84.05,26.01,High,2025-05-16 18:00:00,
+635,Garden Area,Student Center,2,76.33,60.25,Medium,2025-05-16 16:10:00,Lunch Time
+636,Lecture Hall A,Cultural Hall,1,23.14,84.99,Low,2025-05-16 12:39:00,Lunch Time
+637,Main Library,Cultural Hall,0,51.63,89.32,Low,2025-05-16 13:42:00,Orientation
+638,Admin Office,Main Gate,0,14.5,63.03,High,2025-05-16 15:30:00,Class Break
+639,Parking Area,Academic Block A,3,16.09,8.7,High,2025-05-16 13:54:00,Orientation
+640,Computer Lab,Academic Block B,0,55.67,33.32,High,2025-05-16 16:00:00,
+641,Gymnasium,Academic Block B,3,47.69,5.46,Medium,2025-05-16 14:05:00,Seminar
+642,Auditorium,Academic Block B,2,75.7,94.13,Medium,2025-05-16 14:45:00,Orientation
+643,Auditorium,Student Center,3,79.75,9.37,Medium,2025-05-16 8:20:00,
+644,Main Library,Student Center,0,75.16,5.73,Low,2025-05-16 14:48:00,Seminar
+645,Cafeteria,Main Gate,1,36.7,73.19,Low,2025-05-16 16:05:00,Orientation
+646,Garden Area,Cultural Hall,0,93.19,96.68,Medium,2025-05-16 8:57:00,
+647,Student Lounge,Cultural Hall,0,32.84,98.35,Medium,2025-05-16 14:28:00,Class Break
+648,Admin Office,Engineering Block,3,3.19,94.67,High,2025-05-16 16:58:00,
+649,Gymnasium,Cultural Hall,3,31.11,38.46,High,2025-05-16 10:14:00,Lunch Time
+650,Medical Center,Academic Block B,0,10.35,41.57,Medium,2025-05-16 14:32:00,Seminar
+651,Student Lounge,Main Gate,2,49.66,46.63,High,2025-05-16 8:41:00,
+652,Garden Area,Main Gate,0,27.19,74.3,Medium,2025-05-16 17:31:00,Sports Event
+653,Cafeteria,Academic Block B,3,73.24,30.62,High,2025-05-16 11:27:00,
+654,Medical Center,Engineering Block,3,6.55,26.42,High,2025-05-16 8:50:00,Lunch Time
+655,Medical Center,Academic Block A,3,29.07,4.48,High,2025-05-16 16:39:00,
+656,Garden Area,Student Center,0,47.36,95.49,Medium,2025-05-16 8:16:00,Sports Event
+657,Student Lounge,Academic Block B,0,51.4,91.94,High,2025-05-16 16:49:00,
+658,Computer Lab,Cultural Hall,3,76.73,28.1,High,2025-05-16 16:09:00,Class Break
+659,Gymnasium,Academic Block B,1,64.74,16.73,Medium,2025-05-16 14:30:00,Seminar
+660,Gymnasium,Cultural Hall,3,94.51,51.01,Medium,2025-05-16 10:16:00,Seminar
+661,Student Lounge,Academic Block B,1,88.35,38.43,Medium,2025-05-16 14:48:00,Lunch Time
+662,Garden Area,Cultural Hall,3,65.91,4.1,Low,2025-05-16 13:10:00,
+663,Cafeteria,Cultural Hall,2,76.92,60.46,Low,2025-05-16 17:32:00,
+664,Parking Area,Engineering Block,2,45.06,1.15,High,2025-05-16 16:44:00,
+665,Student Lounge,Main Gate,0,31.99,50.19,Medium,2025-05-16 17:06:00,
+666,Parking Area,Cultural Hall,1,23.52,47.37,High,2025-05-16 15:39:00,Class Break
+667,Medical Center,Cultural Hall,0,88.95,63.56,High,2025-05-16 15:00:00,Sports Event
+668,Lecture Hall A,Student Center,3,33.41,88.51,Medium,2025-05-16 9:13:00,Lunch Time
+669,Cafeteria,Academic Block B,3,55.16,14.94,Medium,2025-05-16 17:48:00,Seminar
+670,Gymnasium,Engineering Block,2,16.52,97.31,Low,2025-05-16 15:19:00,Class Break
+671,Main Library,Engineering Block,1,63.05,74,Low,2025-05-16 15:52:00,Seminar
+672,Auditorium,Student Center,1,13.69,2.5,High,2025-05-16 13:59:00,
+673,Medical Center,Student Center,1,66.59,28.64,High,2025-05-16 13:01:00,Orientation
+674,Garden Area,Main Gate,0,80.27,38.01,Medium,2025-05-16 8:55:00,
+675,Student Lounge,Cultural Hall,2,82.68,19.4,High,2025-05-16 10:06:00,
+676,Parking Area,Main Gate,1,0.2,85.95,Medium,2025-05-16 11:41:00,Lunch Time
+677,Computer Lab,Student Center,2,64.16,29.2,High,2025-05-16 9:54:00,Lunch Time
+678,Lecture Hall B,Main Gate,3,70.65,12.58,Low,2025-05-16 9:11:00,Orientation
+679,Garden Area,Academic Block A,1,41.76,5,Medium,2025-05-16 12:39:00,Orientation
+680,Cafeteria,Main Gate,0,56.65,45.95,Low,2025-05-16 9:17:00,
+681,Computer Lab,Main Gate,2,29.83,66.82,High,2025-05-16 9:20:00,Seminar
+682,Student Lounge,Main Gate,3,11.11,58.81,Low,2025-05-16 17:44:00,Sports Event
+683,Lecture Hall B,Main Gate,3,32.01,68.85,Low,2025-05-16 10:49:00,Lunch Time
+684,Lecture Hall B,Academic Block A,1,21.53,66.63,Medium,2025-05-16 10:28:00,
+685,Gymnasium,Cultural Hall,0,63.39,5.05,Low,2025-05-16 10:06:00,Orientation
+686,Lecture Hall B,Main Gate,0,9.46,82.24,High,2025-05-16 13:20:00,Sports Event
+687,Medical Center,Academic Block A,0,86.4,27,Low,2025-05-16 16:49:00,
+688,Parking Area,Main Gate,2,30.22,41.33,Low,2025-05-16 9:11:00,Orientation
+689,Lecture Hall A,Academic Block B,2,25.88,23.37,High,2025-05-16 17:59:00,
+690,Lecture Hall B,Main Gate,2,79.13,32.49,Low,2025-05-16 8:17:00,
+691,Cafeteria,Academic Block A,3,40.84,80.01,High,2025-05-16 15:15:00,
+692,Lecture Hall A,Student Center,0,67.71,70.18,High,2025-05-16 9:46:00,
+693,Main Library,Academic Block A,3,87.38,3.23,Low,2025-05-16 12:41:00,
+694,Lecture Hall B,Academic Block B,3,72.99,82.35,High,2025-05-16 12:06:00,Lunch Time
+695,Garden Area,Student Center,2,83.15,80.49,Medium,2025-05-16 14:12:00,Orientation
+696,Medical Center,Cultural Hall,1,93.43,93.82,High,2025-05-16 13:15:00,
+697,Auditorium,Academic Block B,0,23.35,67.26,Medium,2025-05-16 17:57:00,
+698,Parking Area,Academic Block B,1,77.07,74.73,Low,2025-05-16 16:49:00,Class Break
+699,Garden Area,Engineering Block,3,29.98,80.76,Medium,2025-05-16 8:59:00,
+700,Medical Center,Engineering Block,3,74.54,76.42,Low,2025-05-16 10:56:00,Seminar
+701,Main Library,Engineering Block,3,91.53,48.98,Medium,2025-05-16 16:02:00,
+702,Main Library,Engineering Block,3,68.54,72.98,High,2025-05-16 14:39:00,Class Break
+703,Garden Area,Student Center,0,79.85,38.19,Low,2025-05-16 8:07:00,Class Break
+704,Auditorium,Student Center,3,75.88,99.06,Medium,2025-05-16 13:41:00,Seminar
+705,Lecture Hall B,Academic Block A,1,27.77,60.74,Medium,2025-05-16 10:19:00,Orientation
+706,Main Library,Student Center,1,41.75,76,Medium,2025-05-16 11:27:00,Orientation
+707,Student Lounge,Engineering Block,3,14.06,91.84,Low,2025-05-16 17:31:00,Sports Event
+708,Admin Office,Academic Block A,1,71.56,10.14,High,2025-05-16 9:05:00,
+709,Main Library,Cultural Hall,2,69.09,42.96,Low,2025-05-16 8:07:00,
+710,Parking Area,Main Gate,3,44.06,97.03,High,2025-05-16 15:54:00,Orientation
+711,Main Library,Cultural Hall,0,11.63,77.55,High,2025-05-16 8:07:00,Sports Event
+712,Admin Office,Academic Block A,2,88.14,31.82,High,2025-05-16 11:33:00,
+713,Auditorium,Student Center,2,91.42,42.75,Low,2025-05-16 9:22:00,
+714,Cafeteria,Academic Block A,3,36.84,33.75,High,2025-05-16 13:02:00,Seminar
+715,Lecture Hall B,Academic Block B,2,18.96,52.76,Low,2025-05-16 8:49:00,Class Break
+716,Main Library,Engineering Block,3,86.29,66.14,Low,2025-05-16 15:48:00,
+717,Lecture Hall A,Main Gate,1,39.45,22.92,Medium,2025-05-16 17:39:00,Orientation
+718,Auditorium,Student Center,0,81.7,48.14,Medium,2025-05-16 12:02:00,
+719,Admin Office,Engineering Block,1,81.3,29.86,Medium,2025-05-16 13:38:00,
+720,Lecture Hall B,Academic Block B,2,20.34,23.94,Medium,2025-05-16 9:17:00,Seminar
+721,Main Library,Student Center,1,70.62,78.01,Low,2025-05-16 12:17:00,Sports Event
+722,Gymnasium,Student Center,0,21.66,84.6,High,2025-05-16 11:42:00,Class Break
+723,Lecture Hall B,Academic Block A,1,5.86,5.29,Medium,2025-05-16 16:11:00,
+724,Lecture Hall A,Student Center,3,91.48,53.21,Low,2025-05-16 11:33:00,Seminar
+725,Parking Area,Student Center,2,50.19,2.42,Low,2025-05-16 14:22:00,Seminar
+726,Lecture Hall A,Main Gate,1,49.74,23.97,Medium,2025-05-16 17:21:00,
+727,Medical Center,Academic Block A,2,86.09,2.47,High,2025-05-16 16:03:00,Lunch Time
+728,Lecture Hall A,Academic Block A,2,29.05,50.4,High,2025-05-16 14:40:00,
+729,Admin Office,Engineering Block,2,38.69,77.32,Low,2025-05-16 8:42:00,Class Break
+730,Auditorium,Engineering Block,1,16.56,41.74,High,2025-05-16 16:02:00,Sports Event
+731,Parking Area,Main Gate,2,81.64,38.34,Low,2025-05-16 8:30:00,Sports Event
+732,Cafeteria,Cultural Hall,0,79.1,63.28,Low,2025-05-16 12:51:00,
+733,Parking Area,Engineering Block,0,0.62,42.09,Low,2025-05-16 14:05:00,
+734,Cafeteria,Cultural Hall,1,95.9,8.62,Low,2025-05-16 15:01:00,
+735,Lecture Hall B,Main Gate,2,96.23,93.49,High,2025-05-16 10:26:00,Orientation
+736,Student Lounge,Academic Block B,3,14.22,54.11,Low,2025-05-16 11:20:00,Lunch Time
+737,Garden Area,Academic Block B,3,11.28,12.98,Low,2025-05-16 13:33:00,
+738,Student Lounge,Engineering Block,1,45.28,15.59,High,2025-05-16 14:19:00,
+739,Computer Lab,Academic Block B,3,45.52,81.26,Medium,2025-05-16 16:40:00,Orientation
+740,Computer Lab,Student Center,2,67.65,58.2,Low,2025-05-16 14:48:00,Seminar
+741,Parking Area,Engineering Block,2,97.43,96.41,Low,2025-05-16 11:25:00,Lunch Time
+742,Lecture Hall B,Cultural Hall,2,29.3,33.48,Medium,2025-05-16 14:35:00,Orientation
+743,Admin Office,Main Gate,1,5.99,89.73,Low,2025-05-16 17:09:00,
+744,Auditorium,Main Gate,2,51.89,41.69,Low,2025-05-16 9:06:00,Lunch Time
+745,Lecture Hall A,Main Gate,0,83.2,98.72,High,2025-05-16 14:05:00,Lunch Time
+746,Garden Area,Student Center,1,46.28,2.82,Medium,2025-05-16 13:45:00,Sports Event
+747,Lecture Hall B,Student Center,3,96.99,60.5,Medium,2025-05-16 17:58:00,
+748,Student Lounge,Academic Block B,2,86.63,35.6,Medium,2025-05-16 9:51:00,Orientation
+749,Admin Office,Academic Block B,0,17.75,0.39,Medium,2025-05-16 9:52:00,Seminar
+750,Admin Office,Engineering Block,3,29.84,20.4,Medium,2025-05-16 9:23:00,Sports Event
+751,Main Library,Academic Block B,3,60.07,69.45,Medium,2025-05-16 8:20:00,Lunch Time
+752,Parking Area,Engineering Block,3,54.72,54.31,Medium,2025-05-16 10:12:00,Lunch Time
+753,Garden Area,Engineering Block,1,29.13,79.73,Medium,2025-05-16 14:34:00,
+754,Auditorium,Main Gate,2,59.44,97.45,Low,2025-05-16 12:24:00,
+755,Computer Lab,Academic Block B,1,90.77,83.94,Medium,2025-05-16 14:13:00,Seminar
+756,Auditorium,Student Center,0,40.36,70.29,High,2025-05-16 14:57:00,
+757,Computer Lab,Engineering Block,0,61.92,0.84,Low,2025-05-16 13:18:00,Lunch Time
+758,Gymnasium,Main Gate,0,78.97,91.51,High,2025-05-16 16:44:00,Seminar
+759,Auditorium,Student Center,3,32.65,3.75,High,2025-05-16 9:20:00,
+760,Medical Center,Student Center,1,85.13,37.47,High,2025-05-16 8:54:00,Class Break
+761,Main Library,Academic Block A,1,36.35,33.16,Low,2025-05-16 11:38:00,Seminar
+762,Auditorium,Academic Block A,3,45.25,4.34,Medium,2025-05-16 12:18:00,Class Break
+763,Medical Center,Student Center,1,97.84,14.22,Low,2025-05-16 16:23:00,
+764,Lecture Hall B,Cultural Hall,1,71.37,50.5,Low,2025-05-16 11:24:00,Lunch Time
+765,Cafeteria,Engineering Block,2,2.78,2.73,High,2025-05-16 8:31:00,Seminar
+766,Student Lounge,Academic Block A,0,61.7,67.07,Low,2025-05-16 13:05:00,
+767,Auditorium,Main Gate,1,63.79,95.31,Medium,2025-05-16 12:11:00,
+768,Cafeteria,Academic Block A,1,47.82,27.34,Medium,2025-05-16 15:07:00,Orientation
+769,Lecture Hall B,Engineering Block,3,45.66,39.73,Low,2025-05-16 17:02:00,Sports Event
+770,Garden Area,Academic Block A,0,71.07,19.02,Low,2025-05-16 17:13:00,
+771,Main Library,Student Center,3,19.19,47.45,High,2025-05-16 11:05:00,
+772,Gymnasium,Academic Block B,1,20,82.69,Low,2025-05-16 12:41:00,Orientation
+773,Medical Center,Main Gate,0,27.57,38.06,Low,2025-05-16 13:16:00,
+774,Computer Lab,Main Gate,3,55.17,18.4,Low,2025-05-16 11:54:00,
+775,Lecture Hall A,Cultural Hall,0,96.79,26.66,Medium,2025-05-16 12:55:00,Sports Event
+776,Admin Office,Cultural Hall,2,82.14,47.21,Low,2025-05-16 8:58:00,
+777,Gymnasium,Student Center,1,96.16,36.18,Medium,2025-05-16 15:41:00,Orientation
+778,Cafeteria,Academic Block B,3,24.65,39,Medium,2025-05-16 9:07:00,Sports Event
+779,Gymnasium,Cultural Hall,3,60.24,85.98,Low,2025-05-16 14:55:00,Seminar
+780,Medical Center,Main Gate,0,12.7,88.94,Low,2025-05-16 13:04:00,
+781,Lecture Hall A,Student Center,2,78.74,12.35,Low,2025-05-16 14:34:00,Lunch Time
+782,Parking Area,Cultural Hall,1,74.06,84.68,High,2025-05-16 9:50:00,
+783,Cafeteria,Student Center,3,48.18,8.55,High,2025-05-16 15:43:00,
+784,Lecture Hall B,Cultural Hall,1,66.13,90.07,High,2025-05-16 13:09:00,Class Break
+785,Garden Area,Engineering Block,0,46.41,99.52,Low,2025-05-16 15:25:00,Class Break
+786,Main Library,Student Center,0,14.04,65.34,Low,2025-05-16 10:30:00,Class Break
+787,Admin Office,Cultural Hall,0,65.7,14.89,High,2025-05-16 13:16:00,Orientation
+788,Parking Area,Academic Block B,3,45.35,78.81,High,2025-05-16 8:22:00,Sports Event
+789,Lecture Hall A,Cultural Hall,2,81.51,40.26,Low,2025-05-16 17:45:00,Class Break
+790,Parking Area,Main Gate,3,21.53,53.67,Medium,2025-05-16 12:53:00,Lunch Time
+791,Student Lounge,Cultural Hall,2,2.48,75.63,High,2025-05-16 9:54:00,
+792,Cafeteria,Academic Block A,0,78.73,38.36,Medium,2025-05-16 9:00:00,Lunch Time
+793,Admin Office,Student Center,2,10.82,40,Medium,2025-05-16 8:25:00,
+794,Parking Area,Cultural Hall,1,8.76,64.09,Medium,2025-05-16 13:42:00,Lunch Time
+795,Lecture Hall A,Cultural Hall,0,95.95,66.54,High,2025-05-16 15:46:00,Sports Event
+796,Gymnasium,Engineering Block,3,24.6,78.93,Low,2025-05-16 17:40:00,
+797,Gymnasium,Main Gate,0,43.79,37.8,Medium,2025-05-16 15:48:00,Sports Event
+798,Cafeteria,Engineering Block,0,6.95,45.79,Low,2025-05-16 15:40:00,
+799,Student Lounge,Academic Block B,0,54.89,85.09,Medium,2025-05-16 12:07:00,
+800,Lecture Hall B,Cultural Hall,3,95.44,1.75,Medium,2025-05-16 12:51:00,Lunch Time
+801,Lecture Hall A,Academic Block A,2,12.91,91.41,Low,2025-05-16 17:15:00,
+802,Parking Area,Main Gate,2,46.47,64.81,High,2025-05-16 17:12:00,Orientation
+803,Lecture Hall B,Academic Block A,0,33.83,29.71,Medium,2025-05-16 12:50:00,
+804,Admin Office,Engineering Block,3,80.73,25.05,High,2025-05-16 12:27:00,
+805,Computer Lab,Cultural Hall,3,11.9,86.99,High,2025-05-16 14:49:00,
+806,Main Library,Engineering Block,2,30.81,31.71,Low,2025-05-16 17:29:00,Class Break
+807,Admin Office,Engineering Block,0,60.16,14.53,Low,2025-05-16 12:37:00,Orientation
+808,Medical Center,Cultural Hall,0,89.79,81.45,Low,2025-05-16 8:00:00,
+809,Lecture Hall B,Cultural Hall,3,69.48,0.33,Medium,2025-05-16 9:18:00,Lunch Time
+810,Gymnasium,Cultural Hall,0,40.09,43.68,Low,2025-05-16 10:04:00,Lunch Time
+811,Garden Area,Student Center,0,92.93,33.1,High,2025-05-16 9:57:00,
+812,Cafeteria,Cultural Hall,3,23.37,35.05,Low,2025-05-16 8:55:00,Sports Event
+813,Medical Center,Cultural Hall,0,32.07,58.48,Medium,2025-05-16 15:11:00,Sports Event
+814,Auditorium,Student Center,1,12.11,95.91,Low,2025-05-16 15:32:00,Seminar
+815,Lecture Hall A,Academic Block A,1,53.9,17.24,High,2025-05-16 8:10:00,
+816,Student Lounge,Cultural Hall,0,9.88,24.68,Medium,2025-05-16 9:20:00,Orientation
+817,Lecture Hall B,Main Gate,0,51.14,67.12,Low,2025-05-16 9:07:00,
+818,Lecture Hall B,Academic Block A,1,81.39,63.85,Medium,2025-05-16 13:03:00,
+819,Gymnasium,Engineering Block,3,47.95,83.78,High,2025-05-16 13:06:00,Class Break
+820,Lecture Hall A,Student Center,2,28,13.64,Low,2025-05-16 17:17:00,Class Break
+821,Student Lounge,Academic Block A,1,44.13,22.09,Medium,2025-05-16 11:18:00,Sports Event
+822,Garden Area,Academic Block B,2,86.19,95.54,High,2025-05-16 15:37:00,
+823,Auditorium,Main Gate,3,62.21,0.06,Low,2025-05-16 16:33:00,Orientation
+824,Auditorium,Student Center,1,88.76,70.1,Low,2025-05-16 15:26:00,
+825,Parking Area,Main Gate,0,63.6,4.38,Medium,2025-05-16 13:23:00,
+826,Parking Area,Main Gate,0,18.19,72.85,Low,2025-05-16 8:10:00,Seminar
+827,Lecture Hall A,Main Gate,2,71.62,27.51,Low,2025-05-16 14:39:00,
+828,Cafeteria,Engineering Block,2,57.45,53.73,High,2025-05-16 12:35:00,Sports Event
+829,Cafeteria,Main Gate,1,95.68,90.71,Low,2025-05-16 8:19:00,Seminar
+830,Lecture Hall A,Student Center,0,54.67,89.89,Low,2025-05-16 9:04:00,Class Break
+831,Cafeteria,Academic Block B,2,53.85,51.03,Medium,2025-05-16 14:29:00,Seminar
+832,Lecture Hall B,Academic Block A,2,82.62,4.69,Low,2025-05-16 8:02:00,Orientation
+833,Auditorium,Engineering Block,2,21.37,85.09,High,2025-05-16 15:45:00,Sports Event
+834,Lecture Hall A,Academic Block A,3,78.64,94.66,Low,2025-05-16 16:06:00,Seminar
+835,Student Lounge,Main Gate,1,68.81,76.23,Medium,2025-05-16 12:56:00,Class Break
+836,Computer Lab,Cultural Hall,2,97.99,11.27,High,2025-05-16 10:29:00,Seminar
+837,Admin Office,Cultural Hall,1,11.76,82.28,Low,2025-05-16 10:57:00,Class Break
+838,Auditorium,Cultural Hall,3,30.28,64.43,Low,2025-05-16 17:36:00,
+839,Cafeteria,Engineering Block,0,59.22,92.46,Low,2025-05-16 17:45:00,
+840,Medical Center,Cultural Hall,3,91.45,28.96,Low,2025-05-16 12:21:00,Sports Event
+841,Parking Area,Student Center,0,53.14,82.64,Medium,2025-05-16 13:17:00,Class Break
+842,Cafeteria,Student Center,1,47.28,85.48,Low,2025-05-16 13:18:00,Class Break
+843,Computer Lab,Main Gate,3,56.44,97.01,High,2025-05-16 12:12:00,
+844,Student Lounge,Engineering Block,1,19.37,44.35,High,2025-05-16 16:52:00,Lunch Time
+845,Auditorium,Academic Block A,2,75.87,13.52,High,2025-05-16 15:12:00,Class Break
+846,Parking Area,Academic Block B,0,93.42,57.51,Low,2025-05-16 11:11:00,Sports Event
+847,Gymnasium,Cultural Hall,0,20.89,93.45,Medium,2025-05-16 13:49:00,
+848,Cafeteria,Cultural Hall,1,11.63,97.34,High,2025-05-16 12:15:00,
+849,Main Library,Academic Block B,3,1.77,88.51,Low,2025-05-16 9:44:00,Seminar
+850,Main Library,Engineering Block,2,75.8,26.44,High,2025-05-16 16:56:00,Orientation
+851,Auditorium,Academic Block A,2,14.6,59.47,Medium,2025-05-16 16:50:00,Orientation
+852,Medical Center,Cultural Hall,3,23.78,20.33,High,2025-05-16 9:57:00,
+853,Garden Area,Academic Block B,0,37.43,52.57,Low,2025-05-16 10:16:00,Lunch Time
+854,Admin Office,Student Center,2,65.14,83.61,High,2025-05-16 8:29:00,
+855,Medical Center,Academic Block A,2,74.02,19.04,High,2025-05-16 14:36:00,
+856,Lecture Hall B,Main Gate,1,23.56,57.92,Low,2025-05-16 15:53:00,
+857,Cafeteria,Main Gate,3,53.67,96.48,High,2025-05-16 15:14:00,
+858,Lecture Hall A,Academic Block A,2,65.42,94.27,Low,2025-05-16 8:58:00,Seminar
+859,Lecture Hall B,Main Gate,2,17.35,23.23,Low,2025-05-16 11:38:00,Orientation
+860,Student Lounge,Student Center,1,8.83,19.8,Low,2025-05-16 10:03:00,Class Break
+861,Lecture Hall A,Academic Block B,0,1.75,67.25,Low,2025-05-16 15:16:00,Class Break
+862,Medical Center,Cultural Hall,3,78.11,19.47,High,2025-05-16 13:56:00,Orientation
+863,Computer Lab,Academic Block A,2,99.14,81.51,Medium,2025-05-16 13:49:00,
+864,Lecture Hall B,Student Center,3,68.86,13.77,Low,2025-05-16 17:12:00,
+865,Lecture Hall A,Cultural Hall,1,93.15,58.31,High,2025-05-16 8:18:00,Orientation
+866,Computer Lab,Engineering Block,0,68.75,24.27,Low,2025-05-16 14:55:00,Sports Event
+867,Parking Area,Cultural Hall,1,78.26,68.75,Medium,2025-05-16 15:33:00,Seminar
+868,Computer Lab,Student Center,2,94.45,12.98,High,2025-05-16 11:02:00,
+869,Computer Lab,Engineering Block,2,55.58,45.37,Medium,2025-05-16 9:22:00,Orientation
+870,Admin Office,Student Center,1,91.19,99.7,Low,2025-05-16 16:10:00,
+871,Lecture Hall B,Student Center,0,45.9,96.71,High,2025-05-16 14:30:00,
+872,Lecture Hall A,Academic Block A,3,14.74,99.23,Low,2025-05-16 11:51:00,
+873,Computer Lab,Engineering Block,0,42.79,76.83,Medium,2025-05-16 13:51:00,
+874,Gymnasium,Academic Block A,0,17.53,94.18,High,2025-05-16 14:08:00,
+875,Main Library,Engineering Block,1,29.79,54.56,Medium,2025-05-16 17:03:00,Class Break
+876,Garden Area,Student Center,2,6.93,26.99,High,2025-05-16 12:20:00,
+877,Cafeteria,Student Center,0,90.92,27.43,High,2025-05-16 9:40:00,Class Break
+878,Main Library,Main Gate,2,13.25,60.39,Medium,2025-05-16 17:55:00,Seminar
+879,Computer Lab,Academic Block A,2,90,22.8,Medium,2025-05-16 15:49:00,Sports Event
+880,Main Library,Academic Block A,1,71.06,61.26,Medium,2025-05-16 8:29:00,
+881,Lecture Hall A,Academic Block A,0,26.86,55.8,Low,2025-05-16 8:24:00,
+882,Gymnasium,Academic Block B,3,43.33,82.33,High,2025-05-16 14:16:00,
+883,Main Library,Student Center,1,94.52,4.56,High,2025-05-16 15:40:00,
+884,Lecture Hall A,Academic Block B,3,13.61,48.01,Medium,2025-05-16 11:54:00,Seminar
+885,Computer Lab,Academic Block B,3,31.53,41.94,Medium,2025-05-16 13:02:00,Sports Event
+886,Student Lounge,Student Center,2,20.61,10.36,Medium,2025-05-16 16:14:00,Seminar
+887,Parking Area,Engineering Block,3,63.8,53.95,High,2025-05-16 15:32:00,Seminar
+888,Student Lounge,Engineering Block,0,11.54,24.88,Low,2025-05-16 10:36:00,
+889,Lecture Hall B,Academic Block A,2,8.55,78.87,High,2025-05-16 12:45:00,Seminar
+890,Cafeteria,Student Center,3,75.32,77.93,High,2025-05-16 15:04:00,Orientation
+891,Garden Area,Engineering Block,0,50.4,85,High,2025-05-16 10:20:00,Class Break
+892,Student Lounge,Engineering Block,1,62.43,64.35,Low,2025-05-16 16:30:00,Class Break
+893,Lecture Hall A,Academic Block A,0,84.84,92.63,Low,2025-05-16 8:05:00,Sports Event
+894,Main Library,Main Gate,2,25.09,57.34,Medium,2025-05-16 13:16:00,
+895,Medical Center,Engineering Block,1,54.61,85.27,Medium,2025-05-16 13:23:00,
+896,Gymnasium,Main Gate,0,98.02,9.6,Low,2025-05-16 15:20:00,
+897,Lecture Hall B,Main Gate,2,22.61,56.02,Medium,2025-05-16 9:24:00,Lunch Time
+898,Main Library,Academic Block B,3,88.2,84.83,Low,2025-05-16 8:51:00,
+899,Lecture Hall B,Academic Block B,3,6.8,64.46,Low,2025-05-16 9:41:00,Sports Event
+900,Auditorium,Student Center,3,24.43,50.48,High,2025-05-16 8:47:00,
+901,Parking Area,Main Gate,3,3.65,47.51,Medium,2025-05-16 15:02:00,Orientation
+902,Lecture Hall A,Academic Block B,3,13.52,30.06,High,2025-05-16 10:23:00,
+903,Medical Center,Engineering Block,0,41.95,54.1,High,2025-05-16 17:01:00,Sports Event
+904,Lecture Hall A,Main Gate,1,94.12,89.47,Medium,2025-05-16 10:10:00,Orientation
+905,Cafeteria,Cultural Hall,1,90.18,9.73,Medium,2025-05-16 13:19:00,Class Break
+906,Computer Lab,Academic Block B,0,39.09,75.64,Low,2025-05-16 16:25:00,Seminar
+907,Medical Center,Academic Block B,0,29.02,32.78,Medium,2025-05-16 15:25:00,Orientation
+908,Lecture Hall A,Main Gate,3,51.9,17.72,Low,2025-05-16 11:11:00,Orientation
+909,Medical Center,Engineering Block,0,15.14,76.62,Low,2025-05-16 15:09:00,Lunch Time
+910,Parking Area,Engineering Block,1,13.87,72.16,Low,2025-05-16 17:16:00,Sports Event
+911,Gymnasium,Student Center,3,5.69,52.82,High,2025-05-16 17:43:00,Class Break
+912,Main Library,Engineering Block,0,43.13,89.91,Medium,2025-05-16 10:30:00,Seminar
+913,Computer Lab,Engineering Block,0,72.66,89.34,Medium,2025-05-16 14:53:00,
+914,Lecture Hall B,Academic Block B,3,54.88,40.21,Medium,2025-05-16 15:47:00,
+915,Lecture Hall B,Cultural Hall,3,76.57,8.99,High,2025-05-16 16:46:00,Orientation
+916,Lecture Hall B,Student Center,2,44.63,94.9,Low,2025-05-16 10:30:00,
+917,Lecture Hall A,Engineering Block,1,33.89,9.72,Low,2025-05-16 14:51:00,
+918,Cafeteria,Academic Block B,1,11.35,20.99,High,2025-05-16 15:33:00,Sports Event
+919,Garden Area,Main Gate,0,69.83,3.18,Low,2025-05-16 9:21:00,
+920,Computer Lab,Cultural Hall,0,68.28,21.42,Low,2025-05-16 14:44:00,Orientation
+921,Student Lounge,Academic Block A,3,33.97,56.86,Medium,2025-05-16 11:30:00,
+922,Student Lounge,Main Gate,0,9.67,61.79,Medium,2025-05-16 10:47:00,Lunch Time
+923,Gymnasium,Main Gate,0,69.86,88.72,Medium,2025-05-16 9:27:00,Sports Event
+924,Lecture Hall A,Academic Block A,0,69.74,22.76,Medium,2025-05-16 16:59:00,Sports Event
+925,Garden Area,Main Gate,0,79.96,11.57,Medium,2025-05-16 15:35:00,Seminar
+926,Medical Center,Student Center,1,48.87,43.47,Medium,2025-05-16 17:02:00,Orientation
+927,Auditorium,Engineering Block,1,55.58,16.34,High,2025-05-16 11:00:00,
+928,Parking Area,Academic Block A,1,16.42,70.54,Low,2025-05-16 15:43:00,
+929,Lecture Hall A,Academic Block A,1,97.77,25.96,High,2025-05-16 10:45:00,Seminar
+930,Student Lounge,Main Gate,3,87.16,11.36,Medium,2025-05-16 15:41:00,Class Break
+931,Garden Area,Main Gate,2,14.8,41.76,Medium,2025-05-16 8:17:00,Sports Event
+932,Parking Area,Main Gate,0,40.31,38.52,Low,2025-05-16 11:44:00,Class Break
+933,Medical Center,Main Gate,1,80.43,50.63,Medium,2025-05-16 13:21:00,
+934,Computer Lab,Academic Block A,3,4.58,9.54,High,2025-05-16 16:29:00,Sports Event
+935,Lecture Hall B,Engineering Block,1,95.07,51.49,Medium,2025-05-16 13:42:00,
+936,Parking Area,Student Center,3,39.18,93.49,Low,2025-05-16 15:11:00,
+937,Auditorium,Main Gate,1,91.6,94.28,High,2025-05-16 15:28:00,
+938,Auditorium,Student Center,1,61.33,68.41,Medium,2025-05-16 12:54:00,Seminar
+939,Computer Lab,Main Gate,3,89.7,17.82,Low,2025-05-16 8:49:00,
+940,Medical Center,Student Center,3,10.93,63.13,Low,2025-05-16 8:27:00,Seminar
+941,Student Lounge,Academic Block A,3,98.32,65.43,Low,2025-05-16 8:09:00,Class Break
+942,Main Library,Student Center,2,54.65,21.09,Medium,2025-05-16 16:03:00,Sports Event
+943,Medical Center,Main Gate,3,5.11,30.25,Low,2025-05-16 8:33:00,Class Break
+944,Lecture Hall B,Student Center,2,88.66,40.54,Low,2025-05-16 17:41:00,Lunch Time
+945,Parking Area,Student Center,1,22.89,20.66,High,2025-05-16 8:01:00,
+946,Student Lounge,Student Center,0,31.51,42.21,High,2025-05-16 11:50:00,Lunch Time
+947,Main Library,Academic Block B,3,24.41,96.55,Medium,2025-05-16 9:00:00,Orientation
+948,Admin Office,Academic Block A,2,11.06,51.65,Low,2025-05-16 17:37:00,
+949,Computer Lab,Academic Block B,1,34.19,16.09,Low,2025-05-16 11:52:00,Orientation
+950,Computer Lab,Student Center,0,35.51,26.71,High,2025-05-16 14:05:00,
+951,Garden Area,Engineering Block,2,41.1,95.46,Medium,2025-05-16 8:14:00,
+952,Computer Lab,Student Center,2,71.5,82.48,Medium,2025-05-16 12:52:00,Class Break
+953,Parking Area,Academic Block B,0,60.98,29.62,Medium,2025-05-16 8:27:00,Class Break
+954,Student Lounge,Cultural Hall,1,57.99,75.31,Medium,2025-05-16 15:15:00,
+955,Lecture Hall A,Academic Block B,0,31.69,91.59,Medium,2025-05-16 12:55:00,
+956,Student Lounge,Academic Block A,1,79.67,12.87,High,2025-05-16 10:56:00,Sports Event
+957,Computer Lab,Academic Block B,1,81.18,94.67,Medium,2025-05-16 12:41:00,Orientation
+958,Computer Lab,Cultural Hall,0,40.07,98.41,Low,2025-05-16 13:21:00,
+959,Medical Center,Cultural Hall,0,55.07,94.04,Medium,2025-05-16 14:02:00,
+960,Admin Office,Academic Block B,0,38.71,25.09,Medium,2025-05-16 15:26:00,
+961,Student Lounge,Engineering Block,3,65.14,93.61,Low,2025-05-16 8:53:00,Lunch Time
+962,Main Library,Academic Block A,1,86.61,55.31,Medium,2025-05-16 17:54:00,Class Break
+963,Lecture Hall A,Student Center,2,52.1,13.73,Low,2025-05-16 12:19:00,
+964,Main Library,Academic Block A,1,30.06,30.41,Low,2025-05-16 12:25:00,Lunch Time
+965,Gymnasium,Engineering Block,1,85.77,43.89,High,2025-05-16 15:24:00,
+966,Cafeteria,Cultural Hall,2,75.43,67.52,High,2025-05-16 14:53:00,Orientation
+967,Medical Center,Student Center,3,72.65,98.58,Low,2025-05-16 14:33:00,Sports Event
+968,Main Library,Cultural Hall,1,0.99,18.31,High,2025-05-16 17:44:00,Seminar
+969,Auditorium,Academic Block A,3,59.76,25.47,Medium,2025-05-16 8:19:00,Lunch Time
+970,Lecture Hall A,Engineering Block,3,87.83,24.77,High,2025-05-16 10:44:00,
+971,Student Lounge,Academic Block B,3,47.17,60.35,Medium,2025-05-16 10:42:00,Lunch Time
+972,Auditorium,Cultural Hall,2,88.73,57.74,Low,2025-05-16 16:46:00,
+973,Main Library,Academic Block A,2,52.73,82.03,Medium,2025-05-16 12:07:00,
+974,Gymnasium,Academic Block B,0,44.89,33.49,Low,2025-05-16 10:08:00,Seminar
+975,Lecture Hall A,Engineering Block,0,8.61,20.83,Low,2025-05-16 16:08:00,
+976,Admin Office,Cultural Hall,0,71.47,25.28,High,2025-05-16 14:34:00,Seminar
+977,Auditorium,Academic Block B,0,54.43,1.38,High,2025-05-16 15:41:00,
+978,Lecture Hall B,Academic Block B,1,53.72,23.32,High,2025-05-16 9:43:00,Seminar
+979,Auditorium,Academic Block A,2,41.02,15.11,Low,2025-05-16 13:46:00,
+980,Lecture Hall B,Academic Block A,2,73.09,38.12,High,2025-05-16 17:50:00,Orientation
+981,Cafeteria,Academic Block B,2,16.98,22.92,High,2025-05-16 12:59:00,
+982,Admin Office,Academic Block A,3,18.47,4.78,High,2025-05-16 16:44:00,Lunch Time
+983,Gymnasium,Academic Block A,3,56.11,16.57,High,2025-05-16 16:46:00,Class Break
+984,Garden Area,Engineering Block,3,59.14,28.46,High,2025-05-16 10:56:00,Class Break
+985,Auditorium,Academic Block A,0,92.38,94.94,Low,2025-05-16 11:33:00,Orientation
+986,Student Lounge,Main Gate,1,18.24,84.12,High,2025-05-16 17:49:00,Lunch Time
+987,Lecture Hall B,Main Gate,1,71.56,62.1,Medium,2025-05-16 14:34:00,Sports Event
+988,Lecture Hall B,Academic Block A,2,66.18,10.55,Medium,2025-05-16 8:37:00,Orientation
+989,Gymnasium,Cultural Hall,2,67.76,40.25,Low,2025-05-16 16:21:00,
+990,Parking Area,Academic Block A,2,40.39,66.07,Low,2025-05-16 10:59:00,Orientation
+991,Admin Office,Academic Block B,0,73.33,67.34,High,2025-05-16 13:21:00,
+992,Gymnasium,Engineering Block,0,37.58,48.52,Low,2025-05-16 10:36:00,
+993,Lecture Hall B,Academic Block A,1,75.76,45.84,Medium,2025-05-16 10:21:00,Sports Event
+994,Auditorium,Student Center,3,86.41,3.27,Medium,2025-05-16 14:35:00,Class Break
+995,Main Library,Academic Block A,1,48.76,96.92,High,2025-05-16 11:53:00,Class Break
+996,Student Lounge,Student Center,2,39,83.56,Medium,2025-05-16 8:04:00,Class Break
+997,Parking Area,Cultural Hall,3,18.47,72.63,Medium,2025-05-16 12:38:00,
+998,Garden Area,Student Center,2,55.42,74.3,Low,2025-05-16 8:34:00,Class Break
+999,Student Lounge,Main Gate,0,8,61.82,Low,2025-05-16 9:26:00,
+1000,Computer Lab,Main Gate,2,50.26,17.67,High,2025-05-16 13:30:00,Seminar
