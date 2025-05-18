@@ -1,1 +1,2 @@
 # Smart-Campus-Heatmap-and-NavigationSystem
+The Smart Campus Heatmap & Navigation System is a data-driven solution developed to enhance the efficiency, safety, and usability of campus environments. It leverages student movement data to generate heatmaps, predict crowd density, and assist in space utilization. By integrating machine learning algorithms with geospatial visualization, the system enables intelligent decision-making for both students and administrators.
